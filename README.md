@@ -118,7 +118,7 @@ Establishing strong baselines ensures subsequent architectural complexity is act
 
 ## Reproducibility
 
-Designed to be reproducible in under 15 minutes on a normal machine, subject to dataset download and network speed.
+Designed to be reproducible in approximately 15 minutes on a normal machine (this is an estimate based on CPU benchmarking, subject to network bandwidth and local hardware speed), subject to dataset download and network speed.
 
 ```bash
 # 1. Clone and setup
@@ -174,7 +174,7 @@ spotify-support-agent/
 |---|---|
 | Dataset + preprocessing | Complete |
 | Intent classification | Complete |
-| Historical retrieval | Planned |
+| Historical retrieval | Complete |
 | Response generation | Planned |
 | Escalation | Planned |
 | Gold evaluation set | Planned |
@@ -182,7 +182,7 @@ spotify-support-agent/
 
 ## What Wasn't Built Yet
 
-This is an ongoing project. Currently, the historical retrieval database, generative response modules, human escalation logic, and the manually annotated gold evaluation set have not yet been implemented. 
+This is an ongoing project. Currently, the generative response modules, human escalation logic, and the manually annotated gold evaluation set have not yet been implemented. 
 
 ## Known Limitations
 
