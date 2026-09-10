@@ -42,3 +42,34 @@ Instead of jumping directly into complex multi-agent frameworks or LLM wrappers,
 Initial dependencies in `requirements.txt` are constrained to foundational tools (`pandas`, `numpy`, `scikit-learn`, `pytest`, `python-dotenv`). Additional specialized libraries will only be added as needed in respective milestones.
 
 *Rationale*: Minimizes dependency conflicts, keeps local setup fast, and ensures code portability across environments.
+
+---
+
+## ADR-002: Data Processing & Conversation Reconstruction (M2)
+
+* **Date:** 2026-09-10
+* **Status:** Accepted
+* **Milestone:** M2 (Data Processing & EDA)
+
+### Context
+To model SpotifyCares responses, we must extract clean, coherent conversation threads from a 2.8 million-row Customer Support on Twitter dataset. The data contains fragmented replies, missing text, and noisy text formatting.
+
+### Decisions
+
+#### 1. Conservative Text Cleaning
+Text cleaning specifically limits itself to:
+- Stripping explicit URLs (`http://...`).
+- Normalizing redundant whitespaces.
+- Preserving all native emojis, negations, capitalization, and punctuation.
+
+*Rationale*: Deep learning language models and NLP evaluators heavily rely on punctuation (like question marks) and emojis (sentiment indicators). Stripping them blindly harms the signal.
+
+#### 2. Reconstructing Conversations from Tweet IDs
+Instead of treating tweets as isolated documents, we construct trees using the `in_response_to_tweet_id` pointer. A DFS/BFS approach groups messages into `{"role": "...", "text": "..."}` turns starting from the root customer query.
+
+*Rationale*: LLMs need the full multi-turn context (e.g., "Customer: my app crashed" -> "Agent: try this" -> "Customer: didn't work") to generate accurate follow-ups.
+
+#### 3. No Target Data Leakage
+The raw dataset is extracted via Kaggle API (`kagglehub`) directly to `data/raw/` and explicitly `.gitignore`'d.
+
+*Rationale*: Ensures the repository remains lean and forces developers to build reproducible pipelines rather than relying on manual file edits.

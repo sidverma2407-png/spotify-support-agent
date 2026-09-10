@@ -123,13 +123,39 @@ Project setup successful!
 | Milestone | Scope | Status |
 |---|---|---|
 | **M1: Project Foundation** | Directory layout, dependencies, environment templates, decision log, minimal pipeline entrypoint | ✅ Completed |
-| **M2: Data Processing & EDA** | Ingest Kaggle Twitter dataset, filter `@SpotifyCares`, structure multi-turn threads, baseline EDA | ⏳ Pending |
+| **M2: Data Processing & EDA** | Ingest Kaggle Twitter dataset, filter `@SpotifyCares`, structure multi-turn threads, baseline EDA | ✅ Completed |
 | **M3: Intent Classification** | Categorize user queries into operational buckets (account, billing, audio/app bugs) | ⏳ Pending |
-| **M4: Grounded Retrieval** | Index past resolved solutions; retrieve nearest evidence for incoming issues | ⏳ Pending |
-| **M5: Response Generation & Tone** | Evidence-grounded response generation with guardrails and Spotify support style | ⏳ Pending |
-| **M6: Escalation Logic** | Confidence gating, out-of-scope detection, and human handover routing | ⏳ Pending |
-| **M7: Evaluation & Benchmarking** | Formal evaluation metrics (accuracy, retrieval precision, grounding, escalation recall) | ⏳ Pending |
-| **M8: App / Demo & Packaging** | Interactive demo interface and final documentation polish | ⏳ Pending |
+
+---
+
+## 🛠️ Data Pipeline Workflow (M2)
+
+The data pipeline acquires and processes the [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) dataset from Kaggle. We focus solely on the `@SpotifyCares` brand to model an authentic support agent in a specific domain.
+
+**Run the pipeline locally:**
+
+1. **Download Raw Data**:
+   Fetches the Kaggle dataset via `kagglehub` and copies `twcs.csv` into `data/raw/`. (Requires Kaggle authentication).
+   ```bash
+   python -m src.data.download
+   ```
+
+2. **Preprocess Dataset**:
+   Provides reusable functions for whitespace normalization, robust date parsing, missing data handling, and URL removal while preserving critical linguistic cues (emojis, punctuation).
+
+3. **Sample SpotifyCares & Reconstruct Conversations**:
+   Extracts interactions for `author_id == 'SpotifyCares'` and reconstructs full multi-turn conversational threads (`Customer` -> `Support` -> `Customer`) using recursive `in_response_to_tweet_id` logic. Saves to `data/processed/spotify_conversations.jsonl`.
+   ```bash
+   python -m src.data.sample_brand
+   ```
+
+4. **Generate EDA Report**:
+   Calculates statistics like total tweets, support pairs, and date ranges. Saves to `results/data_profile.json` and `results/data_profile.md`.
+   ```bash
+   python -m src.data.eda
+   ```
+
+*Note*: Large raw and processed files are intentionally ignored via `.gitignore` to prevent data leakage and keep the repository performant.
 
 ---
 
