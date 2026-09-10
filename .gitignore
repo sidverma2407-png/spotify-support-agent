@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Project Data Directories (keep directory structures via .gitkeep)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/gold/*
+!data/gold/.gitkeep
+
+# Results and artifacts (keep directory structure via .gitkeep)
+results/*
+!results/.gitkeep
+*.pkl
+*.joblib
+*.parquet
+*.h5
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
