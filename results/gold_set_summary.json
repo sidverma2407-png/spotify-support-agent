@@ -1,0 +1,26 @@
+{
+  "target_size": 150,
+  "completed": 150,
+  "is_fully_labeled": true,
+  "intents": {
+    "billing_subscription": 16,
+    "playback_app_issue": 18,
+    "ads_recommendations": 17,
+    "other_unclear": 16,
+    "content_availability": 17,
+    "agent_handoff": 16,
+    "cancellation_refund": 16,
+    "praise_gratitude": 17,
+    "account_login": 17
+  },
+  "auto_handle": {
+    "no": 49,
+    "yes": 101
+  },
+  "quality": {
+    "good": 149,
+    "not_applicable": 1
+  },
+  "double_labeled_count": 0,
+  "raw_agreement_rate": null
+}

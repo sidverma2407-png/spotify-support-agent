@@ -103,7 +103,7 @@ The complete evaluation strategy relies on transitioning from weak heuristics to
 
 - **Gold Set Construction (Planned)**: Sample 150–250 diverse examples across intents for manual human labelling.
 - **Intent Evaluation (Completed for Weak Labels)**: Automated metrics including Accuracy, Macro/Weighted F1, and Confusion Matrices.
-- **Retrieval Evaluation (Planned)**: Metrics measuring the relevance of retrieved historical conversations.
+- **Retrieval Evaluation (Completed)**: Metrics measuring the relevance of retrieved historical conversations.
 - **Response Quality & LLM Judge (Planned)**: Evaluating the final generated text using LLM-as-a-judge (assessing accuracy, tone, and helpfulness), comparing the judge's scores against human ratings to ensure alignment.
 - **Escalation Correctness (Planned)**: Evaluating False Positives/False Negatives in the handoff mechanism.
 
@@ -113,8 +113,8 @@ Establishing strong baselines ensures subsequent architectural complexity is act
 
 - **Majority Classifier (Implemented)**: Validates that performance exceeds random guessing and provides the floor for class imbalance.
 - **TF-IDF + Logistic Regression (Implemented)**: Tests linear separability of text features to ensure complex architectures are necessary.
-- **TF-IDF Retrieval (Planned)**: A simple BM25/TF-IDF lookup to benchmark against dense embedding retrieval.
-- **Simple Response (Planned)**: Generating an answer without historical context to measure the value-add of Retrieval-Augmented Generation (RAG).
+- **TF-IDF Retrieval (Completed)**: A simple BM25/TF-IDF lookup to benchmark against dense embedding retrieval.
+- **Historical Copy Baseline (Completed)**: Generating an answer without historical context to measure the value-add of Retrieval-Augmented Generation (RAG).
 
 ## Reproducibility
 
@@ -197,3 +197,17 @@ Key engineering decisions, architecture choices, and rationale are documented in
 ## License / Dataset Attribution
 
 Dataset provided by [thoughtvector on Kaggle](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter). Please refer to Kaggle for dataset terms of use.
+## Human Gold Evaluation Set (M6)
+
+Evaluating a generative customer support agent exclusively on heuristically derived "weak labels" can artificially inflate or deflate metrics. For example, in M5, over 60% of escalations were triggered because the weak-label classifier confidently predicted `other_unclear`, forcing a safe fallback. To obtain ground truth for the final evaluation, we are constructing a Human Gold Evaluation Set.
+
+- **Why Weak Labels Are Insufficient:** Weak labels rely on regex/keyword heuristics. They lack contextual nuance and frequently misclassify ambiguous but perfectly solvable queries. 
+- **Sampling Strategy:** 198 candidates were sampled deterministically from the held-out test split. To guarantee diverse coverage, we used stratified sampling, enforcing ~22 examples from each of the 9 weak intent classes.
+- **What Is Manually Labelled:** A human annotator reviews the raw customer query and provides:
+  1. True intent (1-9)
+  2. Actionability (`should_auto_handle`)
+  3. Response quality target (Good, Acceptable, Poor, N/A)
+- **Annotation Schema & Tools:** A local CLI (`src/gold/label_cli.py`) handles the workflow to avoid unnecessary web dependencies. To prevent bias, the model's weak prediction is prominently flagged as `MODEL PREDICTION — NOT GOLD LABEL`.
+- **Isolation From Training:** The 198 candidates are sourced exclusively from the conversation-isolated test split. They will absolutely not be used to train or tune thresholds.
+- **Agreement Methodology:** To measure inter-annotator agreement, a subset of examples can be double-labelled using an `--annotator` flag in the CLI, followed by calculating the raw agreement rate.
+- **Current Status:** The infrastructure, schema, and stratified candidates are **complete**. The 198 examples are currently **Pending Human Annotation**. We do NOT fabricate or auto-fill these labels using LLMs.
