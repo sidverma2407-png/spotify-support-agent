@@ -12,7 +12,7 @@ INTENTS = [
     "agent_handoff", "praise_gratitude", "other_unclear"
 ]
 
-def sample_gold_set(seed=42, target_size=150):
+def sample_gold_set(seed=42, target_size=150, out_file="data/gold/gold_candidates.json"):
     random.seed(seed)
     
     docs = []
@@ -42,7 +42,7 @@ def sample_gold_set(seed=42, target_size=150):
         
     candidates.sort(key=lambda x: x['conversation_id'])
     
-    out_file = Path("data/gold/gold_candidates.json")
+    out_file = Path(out_file)
     out_file.parent.mkdir(exist_ok=True)
     
     with open(out_file, "w", encoding='utf-8') as f:

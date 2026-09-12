@@ -1,151 +1,151 @@
-example_id,conversation_id,customer_message,gold_intent,should_auto_handle,response_quality_target,annotator_notes,annotator,timestamp
-1023905,1023905,@SpotifyCares Every single time I try to get Premium I see this can you help,billing_subscription,no,good,Premium acquisition/subscription issue; account-specific resolution may be required.,human_1,2026-09-12T03:11:00
-1043543,1043543,@SpotifyCares I'm currently using an iPhone 6 with iOS 10.2.1. I've been on the same OS for a while now but the problem only started occurring about a week ago.,playback_app_issue,yes,not_applicable,The issue started recently despite being on the same iOS version; this indicates an app/device playback or compatibility problem.,human_1,2026-09-12T03:12:00
-1061649,1061649,@SpotifyCares you guys have to do your guessing better. It is annoying to receive suggestion of music I dont relate to...,ads_recommendations,yes,good,Customer is explicitly complaining about irrelevant music suggestions/recommendations.,human_1,2026-09-12T03:13:00
-110065,110065,@SpotifyCares Philippines,billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341253
-1101327,1101327,@SpotifyCares ive already dmd you please respond so we can get this settled!,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341332
-1101341,1101341,"@SpotifyCares i think you should add a feature where on collaborative playlists theres a ""like""button so we can know if people like our song",content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341346
-1173241,1173241,"@SpotifyCares I followed your help page about changing countries, I updated my payment method to a UK one but account still shows NL.",agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341359
-1231175,1231175,"@SpotifyCares Why is there always ""Peter Maffay"" in my Release Radar even though I'm not listening to / following him?",agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341371
-123478,123478,@SpotifyCares Yes,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341382
-1247556,1247556,@SpotifyCares I meant to cancel my account before this months payment but couldn't because of my work. Is there any way I can get a refund?,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341390
-1272605,1272605,@SpotifyCares @417891 still can't listen to my babies on my Mac :( what's happening spotify,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341400
-1273787,1273787,@SpotifyCares Version 8.4.24.871 Samsung galaxy s7 edge,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341417
-1280795,1280795,@SpotifyCares Thank you!!,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341426
-133944,133944,"@115888 This promo looks interesting, but always fail when we try..... And in the end they will keep offer 49.900 for a month as nornal. Looks tricky...",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341434
-1382291,1382291,"@SpotifyCares Hmm.. no errors on iOS (Windows ver says ""Song not Available""). Selecting a St. Vincent song, nothing plays. If added to queue it skips them",content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341445
-138289,138289,@SpotifyCares hey why is that you have your ad to upgrade to Spotify Premium translated into Vietnamese but don't accept Vietnamese cards for payment?,billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341459
-139103,139103,@SpotifyCares I’ve been sent an email from Spotify saying that my email address has been changed. How can I be sure that it’s not fake/span?,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341471
-1407556,1407556,"Why did y'all make it difficult to swipe down the playing tab with the ""Behind the lyrics"" feature? @115888 im over here rotating album art",content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341491
-141154,141154,@SpotifyCares Can I have an explanation? I just followed the steps. Though the Php 129 was good for three months. CARE TO EXPLAIN? @SpotifyCares,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341502
-141168,141168,"@147834 @SpotifyCares For that matter, in India too..",content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341515
-1426298,1426298,@115888 Fix your desktop app. It's embarrassingly slow,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341524
-1487756,1487756,Cmon @115888 just cuz i dont have premium doesnt mean yall can throw random shit like this in bryson tiller shuffle play smh tf is this,billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341533
-1526269,1526269,"@SpotifyCares Will you ever fix the minutes-long loading times, timeouts and errors Windows desktop users have been enduring for years?",playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341543
-153796,153796,@SpotifyCares I’m about to cancel my account if you cannot resolve this. I have done what you requested and it is still occurring.,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341561
-1552608,1552608,"Set up country gold the way rap caviar is set up, please @115888",content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341576
-1557726,1557726,@115888 man fuck skip the dishes where the skip the ad button @?,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341585
-1570480,1570480,"@SpotifyCares Hello, I was paying for a premium account &amp; just accepted a family plan invite - will my previous payment automatically stop?",account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341595
-1595421,1595421,".@115888 WTF. More BS Ads by #GEICO, a Billion $$$ Ad budget, Thug Gorilla of US Insurance. UGH now, BS jive #NeYo? Cancel my Service.",cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341607
-1630502,1630502,@SpotifyCares ey is this a known bug or what? the text from whatever playlist I was on overlays over the entire GUI for the rest of the app. I can interact with the app normally except for the top portion which gets blocked by the shuffle button,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341618
-163713,163713,"@115888 any plans to improve queue functionality? (queuing on web player, clearing queue on Android)",playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341633
-1643021,1643021,@SpotifyCares I was charged for activating premium trial but my money hasn't been sent back. What's the deal?,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341644
-166680,166680,"@SpotifyCares why is my desktop player always going ""can't play the current song"" after 6 seconds on ANY track. Annoying.",playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341655
-1699331,1699331,@515335 Boooo. We’re REALLY trying to reach @SpotifyCares buuuut we’re not having too much luck.,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341666
-17178,17178,Dammit! @115888 just RickRolled us! I may have to cancel my subscription for that…,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341679
-1728119,1728119,@SpotifyCares How can I change the account name others see without connecting it to Facebook?,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341693
-1741177,1741177,@SpotifyCares Device: Nexus 6p (Android 7.1),playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341703
-1752936,1752936,@SpotifyCares Hello! Who can I interact with about getting my @69076 podcast on Spotify? Many of our listeners are asking!,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341712
-1768991,1768991,@SpotifyCares when will spotify be available in Romania?,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341723
-1798156,1798156,@SpotifyCares you guys should add Wiz's kush and OJ and all of the cabinfevers to your library,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341732
-1803619,1803619,"I want to cancel my premium Spotify account, forgot password, not receiving email🙃@SpotifyCares",cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341742
-1806907,1806907,@SpotifyCares I'm using a Samsung Galaxy s7,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341967
-1811168,1811168,"@SpotifyCares I am a premium member too, so it's not that either. My playlist simply skips over the all Usher songs.",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341979
-1833300,1833300,@SpotifyCares I have a student account but I was just charged $10.91 instead of $4.99,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.341990
-1861575,1861575,"@117153 Hey, I have problem playing Spotify via Alpine ute-72bt. I can connect my phone via BT. I can hear Siri talk. No spotify!",other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342001
-1867477,1867477,@SpotifyCares hey I got an issue,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342012
-1879527,1879527,@SpotifyCares @SpotifyCares they keep asking for my mobile even though I provide them with it every email &amp; when I forward the transcript they don’t reply,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342020
-1884105,1884105,Wait if a playlist is collaborative it can't be public? Why is that? @SpotifyCares,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342036
-1887224,1887224,@SpotifyCares hey guys I'm having issues getting my Sister's account into our family. Can I DM to provide the specifics?,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342046
-1896923,1896923,If @SpotifyCares @SpotifyCares will contact me with a dm.,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342057
-190109,190109,"@SpotifyCares it's a playlist in a set of folders. full path is ""feeling kind of... -&gt; ...emo -&gt; (all of the emo diaries)"". 119 songs. i was connected to wi-fi and got the errors i shared earlier. but when i paired over bluetooth i was able to play the playlist. heard of that problem before?",ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342067
-1907010,1907010,Love it when I cancel my Spotify premium but they keep trying to take the money from my account??can you not @SpotifyCares,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342083
-1908822,1908822,@115888 Where are all the Erika's songs? I can't find them anymore,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342094
-1916000,1916000,"@SpotifyCares I meant to cancel my subscription, but I ended it too late and was charged for next month. Is there a way to address that?",cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342104
-1945226,1945226,@SpotifyCares iOS 11.0.3/Spotify V:8.4.24.506 - just did it again on my drive to work :(,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342115
-1947864,1947864,"@SpotifyCares Both. I had about 10gb of music for offline use..turned on spotify, it stated no offline content",playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342125
-1973016,1973016,"@SpotifyCares I have a issue. My credit card information has been used to create a account with Spotify. My bank is charging me Monthly for fees. How do I get this resolved, and possibly get a refund for this. I have to contact my bank every month.",cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342136
-1981467,1981467,"@115888 Hey love the service, Premium is real nice too. But why is the @127972 app sub par? I would love to have my playlist to enjoy.",praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342151
-1997048,1997048,@SpotifyCares where is july by kris wu it was there like an hour ago,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342162
-2041149,2041149,"@SpotifyCares When will you allow premium users to play one stream on multiple @115833 devices via ""Groups"". Same as Sonos. PLEASE!!! 🙏🏻",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342172
-2042229,2042229,@148611 hello! Will the Mighty Spotify device be available on PH?,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342188
-2051672,2051672,"@SpotifyCares didn't realise my student Spotify had ran out because it was deleted from my calender somehow, do I cancel my sub then redo?",cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342198
-2066469,2066469,uhm excuse me @115888 where is me &amp; my girls,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342210
-2072658,2072658,checking in w/ @SpotifyCares because someone apparently changed my account email address and now I can't log in. I emailed but no response,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342219
-2075572,2075572,@SpotifyCares I can't update them until I have the new card sent as I don't yet know the number etc,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342230
-2081464,2081464,"@115888 when I log in, it doesn't take me to the verified one.. there are no songs on this account but only verified one 🤦🏽‍♀️😭🙏🏼",account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342240
-2096172,2096172,@SpotifyCares @116130 hey why are you charging me 9.99 a month now when i'm still a student!?,billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342255
-2119231,2119231,"Hey @115888, please stop playing ads for scary movies at night",ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342293
-2125228,2125228,@SpotifyCares the update is over a year old &amp; does not work,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342304
-2182156,2182156,"@SpotifyCares A few months of premium thrown in, and I’d find a lot more 😎",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342317
-2203796,2203796,@SpotifyCares Is Taylor Swift's Reputation album going to be available at midnight? (Read a report that said it wasn't going to be).,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342331
-2218851,2218851,@115888 @116130 @SpotifyCares why am I now hearing adverts and being stopped from skipping tracks?!? I have a premium subscription contract through @121122 (10 months into 24 month contract) but account now says ‘FREE’,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342343
-2218993,2218993,@SpotifyCares You guys are the real OGs,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342360
-2272787,2272787,@115888 @SpotifyCares Nvm was a bug it's gone.,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342369
-2277224,2277224,@SpotifyCares hey @SpotifyCares I accidently added premium to the wrong account. Can I get a refund?,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342378
-2297922,2297922,I don't think @115888 is ready for Christmas music. Tried to start a radio station based on a Christmas playlist year and got no Christmas.,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342389
-2313474,2313474,@115888 how can I renew my student Spotify discount? My first 12 months are about to expire at the end of the month but I don’t know how to renew the discount.,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342400
-2313908,2313908,@SpotifyCares Well?? Are you replying or not?,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342507
-2338221,2338221,@115888 Is this some apple exclusive bullshit?,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342519
-2342541,2342541,WHY IS THIS ON MY DISCOVER WEEKLY. @115888 what’s going on.,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342528
-2346347,2346347,"@115888 Why are you always sneaking songs that aren't on my playlist into the mix? I know you have a browse, and I go there. Let me play my playlist with MY songs. Getting tired of it.",ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342540
-2432967,2432967,@SpotifyCares Sorry to keep bugging you about this. I know it will take a while to get figured out. And maybe it's not even worth figuring out. Perhaps most younger listeners don't care. It just feels weird to me. But thanks for the effort!,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342553
-2442907,2442907,@115888 help me all my music is gone 😭,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342566
-2453433,2453433,@115888 I suggest a chat to PM songs to friends and comment... also a way to open another playlist/album in new tab :D #avidspotifyuser,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342577
-2513538,2513538,@SpotifyCares wow thank you but can I get an IU song instead ily,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342588
-2558872,2558872,@115888 i send you that spotify charge me again but you didnt reply.can you please refund my money asap.becuse i am very so sad to trust and do that again and you charge me twice per day.please stop doing this,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342597
-2564270,2564270,"@SpotifyCares when are you going to allow customization of content - promoted or otherwise - on users feeds? &gt;95% of the artists, playlists, etc. that you recommend to me are, in my opinion, an absolutely horrible dumpster fire.",ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342610
-2597270,2597270,I already paid but still not getting premium &amp; no email about it. why? @118266 @SpotifyCares,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342623
-2622906,2622906,"@115888 serious question, I need to cancel a prime account but I can’t login at all because my Facebook associated with it is gone. How can I cancel if I can’t even log in to the setting or account page?",cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342633
-2623489,2623489,@115888 I hate when a suggested song that's nothing related to what I'm listening to plays,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342648
-2625422,2625422,@SpotifyCares all done !,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342658
-2708587,2708587,@115888 Not to offend past me but upon further review the cheetah girls 2 album is the best one,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342666
-2734642,2734642,"@SpotifyCares iPhone 6S, iPhone 8 Plus, iPad Mini 2 all on ios 11 (has happened on all 11.x versions since release) Thanks!",praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342675
-2772032,2772032,@SpotifyCares DM has sent,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342685
-2793332,2793332,"Why do I pay you money, when my music just deletes itself every time I need it?! @115888 @SpotifyCares",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342693
-2812,2812,@115888 Its not functioning,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342703
-2820839,2820839,"@SpotifyCares Done. No joy unfortunately, still no change in the sample rate output when switching between settings in the app...",agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342711
-2833780,2833780,"@115888 is great, but why does it only play songs that aren't in my playlist?",praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342721
-2837834,2837834,I wouldn't have to ask this all the time if @115888 would reconfigure my Discover Weekly to include anything decent.,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342729
-2844580,2844580,I wonder when the 'Your Top Songs 2017' from @115888 comes out. In the middle of December?,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342739
-2850060,2850060,@SpotifyCares I need to find out the email associated to my account as I only know the username so I can cancel my subscription,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342748
-2861304,2861304,"@SpotifyCares I can't select my #Sonos speaker (Office) in the ""Devices Available"" menu and can't play #Spotify to it anymore since Sonos removed Spotify from their music services menu. What do I do? [MacOS 10.11.6, Spotify 1.0.68.407.g6864aaaf Sonos 8.2.1]",content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342758
-2862768,2862768,"@SpotifyCares i was listening from my laptop and suddenly my music stopped, i check and see that spotify's logged me out. i try to log back in and it gives me this message. i click ""forgot pass"" (tho i didnt because it's saved to my comp) and it says my username/email dont exist?",account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342772
-288528,288528,.@SpotifyCares please get rid of my Time Capsule playlist. It sucks. KTHXBYE.,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342787
-2912398,2912398,@115888 I don't pay monthly for your servers to crash.,billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342795
-2942695,2942695,@SpotifyCares So i was updating my iPhone when you responded and I guess that’s what it was. It was 1 version behind. I am so sorry for wasting your time!!,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342804
-2950162,2950162,@115888 @SpotifyCares stop suggesting me garbage please @496 @495,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342818
-2976799,2976799,"@SpotifyCares Trouble logging in to Spotify on new Amazon Fire TV. I normally log into Spotify with Facebook, but there is no option on the TV to log in with that method. I tried using the devices available through my phone but the TV didnt pop up. Can i set up a temp user/pass?",account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342827
-2985574,2985574,"@SpotifyCares I cannot find the email address linked to my premium account and nor do I have the password, is there anything you could do?",account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342841
-2986506,2986506,Again @115888 @SpotifyCares i've got real bad music in my discover weekly. So strange especially when I listen to recommended songs you propose. A bit of consistency please.,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342852
-351221,351221,@SpotifyCares Why,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342863
-384890,384890,"@SpotifyCares 8.4.20, my app updates itself, no it’s happening in my own playlist and in the pre made ones too 😩",ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342900
-388992,388992,@SpotifyCares Tried all that. Not working. The App is working fine after I turned off the hardware enhanced option.,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342913
-430772,430772,@SpotifyCares This appears to have solved the issue for now. I will be in touch if I experience any further problems. Thank you! (cc: @AppleSupport),praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342924
-438217,438217,@SpotifyCares I only use spotify on my Samsung phone. I have the current version 8.4.22.857,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342935
-452086,452086,@115888 Hey we have been premium for ever do I get a reward? Sell you to lots of people 😇,billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342945
-454703,454703,@SpotifyCares can u answer my DM pls pretty pls,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342956
-460193,460193,@115888 when you launching in Romania????,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342965
-468344,468344,@115888 But yet Spotify can’t email me back when my account gets hacked🤔,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342973
-472554,472554,@SpotifyCares when is the streaming app for Apple Watch going to be released? Waiting patiently,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342985
-525719,525719,"@SpotifyCares Today, it was announced you could pay yearly for a subscription. Does this apply to the family plan also?",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.342996
-554128,554128,@SpotifyCares Panic over. Removed &amp; reinstalled app. All sorted. 😅,content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343006
-558581,558581,@SpotifyCares is there a way to chang my membership from monthly to annual so that I can get the lower price in the long run? Would it work if I cancel my current plan and restart with annual? Would I then lose all my content?,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343017
-565380,565380,@SpotifyCares @147836 Finally able to send email address,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343030
-61161,61161,Hey @SpotifyCares I need some help!,other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343040
-6486,6486,@117153 @SpotifyCares I have a problem with my account. Can you help me?,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343048
-653089,653089,@SpotifyCares why do the new type of ad's always skip like 5 songs when listening to a playlist?,ads_recommendations,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343056
-67728,67728,"why cant I invite my family to my spotify family? everytime they accept my invitation and try to put their details ""ooops something went wrong"" always pops out when confirming. can you make it more specific? why make invitations so complicated now??? @SpotifyCares.",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343066
-685843,685843,"@SpotifyCares i payed for Spotify premium on the 18th of November for next month, but then i got this email today-",account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343131
-699530,699530,@115888 Hvor kan man få den valuta,billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343155
-727157,727157,"@115888 needs to cut the shit with the suggested tracks making me waste my ""30 add free min"" skipping that shit for real",content_availability,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343166
-728404,728404,@SpotifyCares Spotify keeps stopping and starting. Songs won’t play through the home screen. Can I have a refund for premium? #veryfrustrated !,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343177
-737365,737365,@SpotifyCares i dm-ed you something. Answer please!,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343201
-73743,73743,@SpotifyCares I'm using Samsung J5 year 2015 and 8.4.28.875 armV7 for the Spotify version. Thank you ;),praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343210
-740744,740744,@SpotifyCares did the former and it keeps coming back. will try to reinstall later this week,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343220
-750605,750605,"@116130 Hello,cancelling my premium subscription as you've cancelled my student discount because Unidays doesn't recognise my institution",billing_subscription,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343229
-79392,79392,@115888 @SpotifyCares why when I’m playing a playlist do random songs play. It hasn’t done it before. Has it changed? I’m sorry I subscribe to premium as I’m not a big music listener.,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343241
-843737,843737,@SpotifyCares Oh thank you! Can't wait!!! ♥️,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343256
-847177,847177,"@SpotifyCares No, still not playing it. Works on computer though.",playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343277
-873998,873998,@115888 can you guys please fix your Roku app? lol it's pretty terrible.,playback_app_issue,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343287
-874036,874036,@38621 charged from my card but didnt upgrade my account since it says my student status cant be verifyed,account_login,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343296
-879273,879273,"@SpotifyCares I was charged twice this month, how do I go about getting a refund?",cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343306
-881470,881470,@SpotifyCares id love you to fix it for everyone and not just waste my time,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343315
-89556,89556,@SpotifyCares Here you go. Thank you so much for the speedy reply. You guys rock!,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343324
-929829,929829,Fuckin' hate you @115888 @34831 ‼️ I was trying to renew my subscription using my phone # but it won't work! Fuckin fix ur system!,cancellation_refund,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343334
-964929,964929,@SpotifyCares y'all did great addressing our payment issue. Thanks. Also your Mac app and High Sierra have...issues. Freezing everything.,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343348
-966376,966376,"@SpotifyCares This is not the same H2O, different artists, fix soon nerds",other_unclear,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343359
-975890,975890,@SpotifyCares Check. Thanks.,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343368
-97662,97662,@SpotifyCares you sent me an email to change my password and I have tried without success. I keep getting an error message please advise,agent_handoff,no,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:48:14.343376
-171109,171109,"@SpotifyCares lovely people, is there a plan to put all the concerts of artists I follow in the concerts section? currently it's showing only what it appears to be a random selection. thanks!",praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:49:07.454010
-1180929,1180929,@SpotifyCares Thanks,praise_gratitude,yes,good,Auto-annotated by AI at user request,ai_annotator,2026-09-12T03:49:07.454077
+example_id,conversation_id,customer_message,gold_intent,should_auto_handle,response_quality_target,annotator_notes
+190109,190109,"@SpotifyCares it's a playlist in a set of folders. full path is ""feeling kind of... -&gt; ...emo -&gt; (all of the emo diaries)"". 119 songs. i was connected to wi-fi and got the errors i shared earlier. but when i paired over bluetooth i was able to play the playlist. heard of that problem before?",billing_subscription,yes,good,No notes
+525719,525719,"@SpotifyCares Today, it was announced you could pay yearly for a subscription. Does this apply to the family plan also?",billing_subscription,yes,good,No notes
+2820839,2820839,"@SpotifyCares Done. No joy unfortunately, still no change in the sample rate output when switching between settings in the app...",billing_subscription,yes,good,No notes
+554128,554128,@SpotifyCares Panic over. Removed &amp; reinstalled app. All sorted. 😅,billing_subscription,yes,good,No notes
+2066469,2066469,uhm excuse me @115888 where is me &amp; my girls,billing_subscription,yes,good,No notes
+1887224,1887224,@SpotifyCares hey guys I'm having issues getting my Sister's account into our family. Can I DM to provide the specifics?,billing_subscription,yes,good,No notes
+460193,460193,@115888 when you launching in Romania????,billing_subscription,yes,good,No notes
+153796,153796,@SpotifyCares I’m about to cancel my account if you cannot resolve this. I have done what you requested and it is still occurring.,billing_subscription,yes,good,No notes
+1552608,1552608,"Set up country gold the way rap caviar is set up, please @115888",billing_subscription,yes,good,No notes
+1526269,1526269,"@SpotifyCares Will you ever fix the minutes-long loading times, timeouts and errors Windows desktop users have been enduring for years?",billing_subscription,yes,good,No notes
+1908822,1908822,@115888 Where are all the Erika's songs? I can't find them anymore,billing_subscription,yes,good,No notes
+2218993,2218993,@SpotifyCares You guys are the real OGs,billing_subscription,yes,good,No notes
+1407556,1407556,@SpotifyCares Thank you for the help,billing_subscription,yes,good,No notes
+699530,699530,@115888 Hvor kan man få den valuta,billing_subscription,yes,good,No notes
+2442907,2442907,@115888 help me all my music is gone 😭,billing_subscription,yes,good,No notes
+138289,138289,@SpotifyCares hey why is that you have your ad to upgrade to Spotify Premium translated into Vietnamese but don't accept Vietnamese cards for payment?,billing_subscription,yes,good,No notes
+468344,468344,@115888 But yet Spotify can’t email me back when my account gets hacked🤔,billing_subscription,yes,good,No notes
+1807406,1807406,@115888 when are you going to launch worldwide? Or in Africa ? We listen to music too 😒,billing_subscription,yes,good,No notes
+2203796,2203796,@SpotifyCares Is Taylor Swift's Reputation album going to be available at midnight? (Read a report that said it wasn't going to be).,billing_subscription,yes,good,No notes
+133944,133944,"@115888 This promo looks interesting, but always fail when we try..... And in the end they will keep offer 49.900 for a month as nornal. Looks tricky...",billing_subscription,yes,good,No notes
+2950162,2950162,@115888 @SpotifyCares stop suggesting me garbage please @496 @495,billing_subscription,yes,good,No notes
+472554,472554,@SpotifyCares when is the streaming app for Apple Watch going to be released? Waiting patiently,billing_subscription,yes,good,No notes
+2041149,2041149,"@SpotifyCares When will you allow premium users to play one stream on multiple @115833 devices via ""Groups"". Same as Sonos. PLEASE!!! 🙏🏻",billing_subscription,yes,good,No notes
+351221,351221,@SpotifyCares Why,billing_subscription,yes,good,No notes
+452086,452086,@115888 Hey we have been premium for ever do I get a reward? Sell you to lots of people 😇,billing_subscription,yes,good,No notes
+61161,61161,Hey @SpotifyCares I need some help!,billing_subscription,yes,good,No notes
+1811168,1811168,"@SpotifyCares I am a premium member too, so it's not that either. My playlist simply skips over the all Usher songs.",billing_subscription,yes,good,No notes
+1798156,1798156,@SpotifyCares you guys should add Wiz's kush and OJ and all of the cabinfevers to your library,billing_subscription,yes,good,No notes
+438217,438217,@SpotifyCares I only use spotify on my Samsung phone. I have the current version 8.4.22.857,billing_subscription,yes,good,No notes
+2342541,2342541,WHY IS THIS ON MY DISCOVER WEEKLY. @115888 what’s going on.,billing_subscription,yes,good,No notes
+1884105,1884105,Wait if a playlist is collaborative it can't be public? Why is that? @SpotifyCares,billing_subscription,yes,good,No notes
+1945226,1945226,@SpotifyCares iOS 11.0.3/Spotify V:8.4.24.506 - just did it again on my drive to work :(,billing_subscription,yes,good,No notes
+1595421,1595421,".@115888 WTF. More BS Ads by #GEICO, a Billion $$$ Ad budget, Thug Gorilla of US Insurance. UGH now, BS jive #NeYo? Cancel my Service.",billing_subscription,yes,good,No notes
+740744,740744,@SpotifyCares did the former and it keeps coming back. will try to reinstall later this week,billing_subscription,yes,good,No notes
+6486,6486,@117153 @SpotifyCares I have a problem with my account. Can you help me?,billing_subscription,yes,good,No notes
+2833780,2833780,"@115888 is great, but why does it only play songs that aren't in my playlist?",billing_subscription,yes,good,No notes
+2942695,2942695,@SpotifyCares So i was updating my iPhone when you responded and I guess that’s what it was. It was 1 version behind. I am so sorry for wasting your time!!,billing_subscription,yes,good,No notes
+2272787,2272787,@115888 @SpotifyCares Nvm was a bug it's gone.,billing_subscription,yes,good,No notes
+288528,288528,.@SpotifyCares please get rid of my Time Capsule playlist. It sucks. KTHXBYE.,billing_subscription,yes,good,No notes
+1916000,1916000,"@SpotifyCares I meant to cancel my subscription, but I ended it too late and was charged for next month. Is there a way to address that?",billing_subscription,yes,good,No notes
+2125228,2125228,@SpotifyCares the update is over a year old &amp; does not work,billing_subscription,yes,good,No notes
+2622906,2622906,"@115888 serious question, I need to cancel a prime account but I can’t login at all because my Facebook associated with it is gone. How can I cancel if I can’t even log in to the setting or account page?",billing_subscription,yes,good,No notes
+2338221,2338221,@115888 Is this some apple exclusive bullshit?,billing_subscription,yes,good,No notes
+1061649,1061649,@SpotifyCares you guys have to do your guessing better. It is annoying to receive “suggestion” of music I dont relate to...,billing_subscription,yes,good,No notes
+2708587,2708587,@115888 Not to offend past me but upon further review the cheetah girls 2 album is the best one,billing_subscription,yes,good,No notes
+2297922,2297922,I don't think @115888 is ready for Christmas music. Tried to start a radio station based on a Christmas playlist year and got no Christmas.,billing_subscription,yes,good,No notes
+1728119,1728119,@SpotifyCares How can I change the account name others see without connecting it to Facebook?,billing_subscription,yes,good,No notes
+73743,73743,@SpotifyCares I'm using Samsung J5 year 2015 and 8.4.28.875 armV7 for the Spotify version. Thank you ;),billing_subscription,yes,good,No notes
+2558872,2558872,@115888 i send you that spotify charge me again but you didnt reply.can you please refund my money asap.becuse i am very so sad to trust and do that again and you charge me twice per day.please stop doing this,billing_subscription,yes,good,No notes
+1907010,1907010,Love it when I cancel my Spotify premium but they keep trying to take the money from my account??can you not @SpotifyCares,billing_subscription,yes,good,No notes
+2986506,2986506,Again @115888 @SpotifyCares i've got real bad music in my discover weekly. So strange especially when I listen to recommended songs you propose. A bit of consistency please.,billing_subscription,yes,good,No notes
+2453433,2453433,@115888 I suggest a chat to PM songs to friends and comment... also a way to open another playlist/album in new tab :D #avidspotifyuser,billing_subscription,yes,good,No notes
+2072658,2072658,checking in w/ @SpotifyCares because someone apparently changed my account email address and now I can't log in. I emailed but no response,billing_subscription,yes,good,No notes
+1426298,1426298,@115888 Fix your desktop app. It's embarrassingly slow,billing_subscription,yes,good,No notes
+2862768,2862768,"@SpotifyCares i was listening from my laptop and suddenly my music stopped, i check and see that spotify's logged me out. i try to log back in and it gives me this message. i click ""forgot pass"" (tho i didnt because it's saved to my comp) and it says my username/email dont exist?",billing_subscription,yes,good,No notes
+2183065,2183065,@115888 PLEASE make an option to ad a song to multiple playlists at a time,billing_subscription,yes,good,No notes
+2653120,2653120,@SpotifyCares Makes sense. Thank you! 🙏🏼,billing_subscription,yes,good,No notes
+123478,123478,@SpotifyCares Yes,billing_subscription,yes,good,No notes
+1973016,1973016,"@SpotifyCares I have a issue. My credit card information has been used to create a account with Spotify. My bank is charging me Monthly for fees. How do I get this resolved, and possibly get a refund for this. I have to contact my bank every month.",billing_subscription,yes,good,No notes
+1752936,1752936,@SpotifyCares Hello! Who can I interact with about getting my @69076 podcast on Spotify? Many of our listeners are asking!,billing_subscription,yes,good,No notes
+2912451,2912451,"@115888 Hey, I'm a 2nd Yr student @87850 but have been charged the full fee for the last 2months, had not received any reminder to reapply for the student fee... Please can you help me reclaim the additional fees, please??? #frugalliving &lt;3",billing_subscription,yes,good,No notes
+1768991,1768991,@SpotifyCares when will spotify be available in Romania?,billing_subscription,yes,good,No notes
+1023905,1023905,@SpotifyCares Every single time I try to get Premium I see this can you help,billing_subscription,yes,good,No notes
+653089,653089,@SpotifyCares why do the new type of ad's always skip like 5 songs when listening to a playlist?,billing_subscription,yes,good,No notes
+1557726,1557726,@115888 man fuck skip the dishes where the skip the ad button @?,billing_subscription,yes,good,No notes
+843737,843737,@SpotifyCares Oh thank you! Can't wait!!! ♥️,billing_subscription,yes,good,No notes
+2051672,2051672,"@SpotifyCares didn't realise my student Spotify had ran out because it was deleted from my calender somehow, do I cancel my sub then redo?",billing_subscription,yes,good,No notes
+2182156,2182156,"@SpotifyCares A few months of premium thrown in, and I’d find a lot more 😎",billing_subscription,yes,good,No notes
+558581,558581,@SpotifyCares is there a way to chang my membership from monthly to annual so that I can get the lower price in the long run? Would it work if I cancel my current plan and restart with annual? Would I then lose all my content?,billing_subscription,yes,good,No notes
+2081464,2081464,"@115888 when I log in, it doesn't take me to the verified one.. there are no songs on this account but only verified one 🤦🏽‍♀️😭🙏🏼",billing_subscription,yes,good,No notes
+1382291,1382291,"@SpotifyCares Hmm.. no errors on iOS (Windows ver says ""Song not Available""). Selecting a St. Vincent song, nothing plays. If added to queue it skips them",billing_subscription,yes,good,No notes
+2623489,2623489,@115888 I hate when a suggested song that's nothing related to what I'm listening to plays,billing_subscription,yes,good,No notes
+1101327,1101327,@SpotifyCares ive already dmd you please respond so we can get this settled!,billing_subscription,yes,good,No notes
+486930,486930,@SpotifyCares I actually figured it out already and am up to date. All is well. Thanks for the timely response though.,billing_subscription,yes,good,No notes
+141154,141154,@SpotifyCares Can I have an explanation? I just followed the steps. Though the Php 129 was good for three months. CARE TO EXPLAIN? @SpotifyCares,billing_subscription,yes,good,No notes
+728404,728404,@SpotifyCares Spotify keeps stopping and starting. Songs won’t play through the home screen. Can I have a refund for premium? #veryfrustrated !,billing_subscription,yes,good,No notes
+2837834,2837834,I wouldn't have to ask this all the time if @115888 would reconfigure my Discover Weekly to include anything decent.,billing_subscription,yes,good,No notes
+1699331,1699331,@515335 Boooo. We’re REALLY trying to reach @SpotifyCares buuuut we’re not having too much luck.,billing_subscription,yes,good,No notes
+384890,384890,"@SpotifyCares 8.4.20, my app updates itself, no it’s happening in my own playlist and in the pre made ones too 😩",billing_subscription,yes,good,No notes
+2432967,2432967,@SpotifyCares Sorry to keep bugging you about this. I know it will take a while to get figured out. And maybe it's not even worth figuring out. Perhaps most younger listeners don't care. It just feels weird to me. But thanks for the effort!,billing_subscription,yes,good,No notes
+2772032,2772032,@SpotifyCares DM has sent,billing_subscription,yes,good,No notes
+2976799,2976799,"@SpotifyCares Trouble logging in to Spotify on new Amazon Fire TV. I normally log into Spotify with Facebook, but there is no option on the TV to log in with that method. I tried using the devices available through my phone but the TV didnt pop up. Can i set up a temp user/pass?",billing_subscription,yes,good,No notes
+2597270,2597270,I already paid but still not getting premium &amp; no email about it. why? @118266 @SpotifyCares,billing_subscription,yes,good,No notes
+2844580,2844580,I wonder when the 'Your Top Songs 2017' from @115888 comes out. In the middle of December?,billing_subscription,yes,good,No notes
+2277224,2277224,@SpotifyCares hey @SpotifyCares I accidently added premium to the wrong account. Can I get a refund?,billing_subscription,yes,good,No notes
+2564270,2564270,"@SpotifyCares when are you going to allow customization of content - promoted or otherwise - on users feeds? &gt;95% of the artists, playlists, etc. that you recommend to me are, in my opinion, an absolutely horrible dumpster fire.",billing_subscription,yes,good,No notes
+2912398,2912398,@115888 I don't pay monthly for your servers to crash.,billing_subscription,yes,good,No notes
+1280795,1280795,@SpotifyCares Thank you!!,billing_subscription,yes,good,No notes
+2218851,2218851,@115888 @116130 @SpotifyCares why am I now hearing adverts and being stopped from skipping tracks?!? I have a premium subscription contract through @121122 (10 months into 24 month contract) but account now says ‘FREE’,billing_subscription,yes,good,No notes
+2734642,2734642,"@SpotifyCares iPhone 6S, iPhone 8 Plus, iPad Mini 2 all on ios 11 (has happened on all 11.x versions since release) Thanks!",billing_subscription,yes,good,No notes
+727157,727157,"@115888 needs to cut the shit with the suggested tracks making me waste my ""30 add free min"" skipping that shit for real",billing_subscription,yes,good,No notes
+2313908,2313908,@SpotifyCares Well?? Are you replying or not?,billing_subscription,yes,good,No notes
+1231175,1231175,"@SpotifyCares Why is there always ""Peter Maffay"" in my Release Radar even though I'm not listening to / following him?",billing_subscription,yes,good,No notes
+2042229,2042229,@148611 hello! Will the Mighty Spotify device be available on PH?,billing_subscription,yes,good,No notes
+166680,166680,"@SpotifyCares why is my desktop player always going ""can't play the current song"" after 6 seconds on ANY track. Annoying.",billing_subscription,yes,good,No notes
+2096172,2096172,@SpotifyCares @116130 hey why are you charging me 9.99 a month now when i'm still a student!?,billing_subscription,yes,good,No notes
+2119231,2119231,"Hey @115888, please stop playing ads for scary movies at night",billing_subscription,yes,good,No notes
+1487756,1487756,Cmon @115888 just cuz i dont have premium doesnt mean yall can throw random shit like this in bryson tiller shuffle play smh tf is this,billing_subscription,yes,good,No notes
+750605,750605,"@116130 Hello,cancelling my premium subscription as you've cancelled my student discount because Unidays doesn't recognise my institution",billing_subscription,yes,good,No notes
+1800553,1800553,add Present by DIA on Spotify @115888 @SpotifyCares,billing_subscription,yes,good,No notes
+2850060,2850060,@SpotifyCares I need to find out the email associated to my account as I only know the username so I can cancel my subscription,billing_subscription,yes,good,No notes
+2219820,2219820,"@SpotifyCares Oh, thanks a lot, the options were disabled because I was playing the songs to my Sonos speaker, thanks again",billing_subscription,yes,good,No notes
+1947864,1947864,"@SpotifyCares Both. I had about 10gb of music for offline use..turned on spotify, it stated no offline content",billing_subscription,yes,good,No notes
+1867477,1867477,@SpotifyCares hey I got an issue,billing_subscription,yes,good,No notes
+2346347,2346347,"@115888 Why are you always sneaking songs that aren't on my playlist into the mix? I know you have a browse, and I go there. Let me play my playlist with MY songs. Getting tired of it.",billing_subscription,yes,good,No notes
+1799635,1799635,@SpotifyCares My email and Spotify were hacked. The hacker changed the passwords to both. Can you recover my account or cancel my premium.,billing_subscription,yes,good,No notes
+388992,388992,@SpotifyCares Tried all that. Not working. The App is working fine after I turned off the hardware enhanced option.,billing_subscription,yes,good,No notes
+139103,139103,@SpotifyCares I’ve been sent an email from Spotify saying that my email address has been changed. How can I be sure that it’s not fake/span?,billing_subscription,yes,good,No notes
+2075572,2075572,@SpotifyCares I can't update them until I have the new card sent as I don't yet know the number etc,billing_subscription,yes,good,No notes
+163713,163713,"@115888 any plans to improve queue functionality? (queuing on web player, clearing queue on Android)",billing_subscription,yes,good,No notes
+685843,685843,"@SpotifyCares i payed for Spotify premium on the 18th of November for next month, but then i got this email today-",billing_subscription,yes,good,No notes
+1643021,1643021,@SpotifyCares I was charged for activating premium trial but my money hasn't been sent back. What's the deal?,billing_subscription,yes,good,No notes
+1728117,1728117,@SpotifyCares I've send you a DM!,billing_subscription,yes,good,No notes
+17178,17178,Dammit! @115888 just RickRolled us! I may have to cancel my subscription for that…,billing_subscription,yes,good,No notes
+565380,565380,@SpotifyCares I respondef,billing_subscription,yes,good,No notes
+613345,613345,@SpotifyCares Trying to use the 0.99 for 3 months offer but every time I try to checkout it fails :( In NL. Previous customer.,billing_subscription,yes,good,No notes
+2985574,2985574,"@SpotifyCares I cannot find the email address linked to my premium account and nor do I have the password, is there anything you could do?",billing_subscription,yes,good,No notes
+430772,430772,@SpotifyCares This appears to have solved the issue for now. I will be in touch if I experience any further problems. Thank you! (cc: @AppleSupport),billing_subscription,yes,good,No notes
+1272605,1272605,@SpotifyCares @417891 still can't listen to my babies on my Mac :( what's happening spotify,billing_subscription,yes,good,No notes
+1070115,1070115,Is @115888 ever planning to release an app for LG webOS TVs or should I cancel my premium and go elsewhere?,billing_subscription,yes,good,No notes
+737365,737365,@SpotifyCares i dm-ed you something. Answer please!,billing_subscription,yes,good,No notes
+1630502,1630502,@SpotifyCares ey is this a known bug or what? the text from whatever playlist I was on overlays over the entire GUI for the rest of the app. I can interact with the app normally except for the top portion which gets blocked by the shuffle button,billing_subscription,yes,good,No notes
+1803619,1803619,"I want to cancel my premium Spotify account, forgot password, not receiving email🙃@SpotifyCares",billing_subscription,yes,good,No notes
+2313474,2313474,@115888 how can I renew my student Spotify discount? My first 12 months are about to expire at the end of the month but I don’t know how to renew the discount.,billing_subscription,yes,good,No notes
+110065,110065,@115888 I'll apply premium but please include No Control song of 1D 🙏🙏🙏🙏,billing_subscription,yes,good,No notes
+2625422,2625422,@SpotifyCares all done !,billing_subscription,yes,good,No notes
+2513538,2513538,@SpotifyCares wow thank you but can I get an IU song instead ily,billing_subscription,yes,good,No notes
+1570480,1570480,"@SpotifyCares Hello, I was paying for a premium account &amp; just accepted a family plan invite - will my previous payment automatically stop?",billing_subscription,yes,good,No notes
+1997048,1997048,@SpotifyCares where is july by kris wu it was there like an hour ago,billing_subscription,yes,good,No notes
+2861304,2861304,"@SpotifyCares I can't select my #Sonos speaker (Office) in the ""Devices Available"" menu and can't play #Spotify to it anymore since Sonos removed Spotify from their music services menu. What do I do? [MacOS 10.11.6, Spotify 1.0.68.407.g6864aaaf Sonos 8.2.1]",billing_subscription,yes,good,No notes
+1833300,1833300,@SpotifyCares I have a student account but I was just charged $10.91 instead of $4.99,billing_subscription,yes,good,No notes
+2793332,2793332,"Why do I pay you money, when my music just deletes itself every time I need it?! @115888 @SpotifyCares",billing_subscription,yes,good,No notes
+1741177,1741177,@SpotifyCares Device: Nexus 6p (Android 7.1),billing_subscription,yes,good,No notes
+79392,79392,@115888 @SpotifyCares why when I’m playing a playlist do random songs play. It hasn’t done it before. Has it changed? I’m sorry I subscribe to premium as I’m not a big music listener.,billing_subscription,yes,good,No notes
+454703,454703,@SpotifyCares can u answer my DM pls pretty pls,billing_subscription,yes,good,No notes
+1879527,1879527,@SpotifyCares @SpotifyCares they keep asking for my mobile even though I provide them with it every email &amp; when I forward the transcript they don’t reply,billing_subscription,yes,good,No notes
+1806907,1806907,@SpotifyCares I'm using a Samsung Galaxy s7,billing_subscription,yes,good,No notes
+1173241,1173241,"@SpotifyCares I followed your help page about changing countries, I updated my payment method to a UK one but account still shows NL.",billing_subscription,yes,good,No notes
+585113,585113,"@SpotifyCares Hi, please could you create a new profile for this new artist with the same name as my favourite band @92784. Thank you!",billing_subscription,yes,good,No notes
+2782150,2782150,@115888 your site is always 504 error ?,billing_subscription,yes,good,No notes
+2812,2812,@115888 Its not functioning,billing_subscription,yes,good,No notes
+1101341,1101341,"@SpotifyCares i think you should add a feature where on collaborative playlists theres a ""like""button so we can know if people like our song",billing_subscription,yes,good,No notes
+67728,67728,"why cant I invite my family to my spotify family? everytime they accept my invitation and try to put their details ""ooops something went wrong"" always pops out when confirming. can you make it more specific? why make invitations so complicated now??? @SpotifyCares.",billing_subscription,yes,good,No notes
+1247556,1247556,@SpotifyCares I meant to cancel my account before this months payment but couldn't because of my work. Is there any way I can get a refund?,billing_subscription,yes,good,No notes
+141168,141168,"@147834 @SpotifyCares For that matter, in India too..",billing_subscription,yes,good,No notes
+1861575,1861575,"@117153 Hey, I have problem playing Spotify via Alpine ute-72bt. I can connect my phone via BT. I can hear Siri talk. No spotify!",billing_subscription,yes,good,No notes
+1896923,1896923,If @SpotifyCares @SpotifyCares will contact me with a dm.,billing_subscription,yes,good,No notes
+1981467,1981467,"@115888 Hey love the service, Premium is real nice too. But why is the @127972 app sub par? I would love to have my playlist to enjoy.",billing_subscription,yes,good,No notes
+1043543,1043543,@366770 @SpotifyCares I have the same phone and same issues lol @SpotifyCares pls help,billing_subscription,yes,good,No notes
+1273787,1273787,@SpotifyCares Version 8.4.24.871 Samsung galaxy s7 edge,billing_subscription,yes,good,No notes

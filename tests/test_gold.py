@@ -5,8 +5,8 @@ from src.gold.sample_gold_set import sample_gold_set
 from src.retrieval.evaluate_retrieval import get_train_test_split
 
 def test_sampling_reproducibility():
-    s1 = sample_gold_set(seed=42, target_size=18)
-    s2 = sample_gold_set(seed=42, target_size=18)
+    s1 = sample_gold_set(seed=42, target_size=18, out_file="data/gold_test/test_cands.json")
+    s2 = sample_gold_set(seed=42, target_size=18, out_file="data/gold_test/test_cands.json")
     
     ids1 = [x['conversation_id'] for x in s1]
     ids2 = [x['conversation_id'] for x in s2]
@@ -23,7 +23,7 @@ def test_gold_train_separation():
     train_corpus, _ = get_train_test_split(docs, random_state=42)
     train_ids = {x['conversation_id'] for x in train_corpus}
     
-    sampled = sample_gold_set(seed=42, target_size=18)
+    sampled = sample_gold_set(seed=42, target_size=18, out_file="data/gold_test/test_cands.json")
     sampled_ids = {x['conversation_id'] for x in sampled}
     
     # Must be disjoint
