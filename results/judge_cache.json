@@ -1,0 +1,1352 @@
+{
+  "190109_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "525719_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2820839_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "554128_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2066469_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1887224_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "460193_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "153796_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1552608_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1526269_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1908822_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2218993_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1407556_heuristic": {
+    "relevance": 5,
+    "helpfulness": 5,
+    "grounding": 5,
+    "safety": 5,
+    "overall": 5,
+    "category": "pass",
+    "reason": "Heuristic Judge: Response looks generally acceptable."
+  },
+  "699530_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2442907_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "138289_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "468344_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1807406_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2203796_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "133944_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2950162_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "472554_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2041149_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "351221_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "452086_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "61161_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1811168_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1798156_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "438217_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2342541_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1884105_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1945226_heuristic": {
+    "relevance": 5,
+    "helpfulness": 5,
+    "grounding": 5,
+    "safety": 5,
+    "overall": 5,
+    "category": "pass",
+    "reason": "Heuristic Judge: Response looks generally acceptable."
+  },
+  "1595421_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "740744_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "6486_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2833780_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2942695_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2272787_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "288528_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1916000_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2125228_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2622906_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2338221_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1061649_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2708587_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2297922_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1728119_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "73743_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2558872_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1907010_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2986506_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2453433_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2072658_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1426298_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2862768_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2183065_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2653120_heuristic": {
+    "relevance": 5,
+    "helpfulness": 5,
+    "grounding": 5,
+    "safety": 5,
+    "overall": 5,
+    "category": "pass",
+    "reason": "Heuristic Judge: Response looks generally acceptable."
+  },
+  "123478_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1973016_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1752936_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2912451_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1768991_heuristic": {
+    "relevance": 5,
+    "helpfulness": 5,
+    "grounding": 5,
+    "safety": 5,
+    "overall": 5,
+    "category": "pass",
+    "reason": "Heuristic Judge: Response looks generally acceptable."
+  },
+  "1023905_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "653089_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1557726_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "843737_heuristic": {
+    "relevance": 5,
+    "helpfulness": 5,
+    "grounding": 5,
+    "safety": 5,
+    "overall": 5,
+    "category": "pass",
+    "reason": "Heuristic Judge: Response looks generally acceptable."
+  },
+  "2051672_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2182156_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "558581_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2081464_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1382291_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2623489_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1101327_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "486930_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "141154_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "728404_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2837834_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1699331_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "384890_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2432967_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2772032_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2976799_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2597270_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2844580_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2277224_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2564270_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2912398_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1280795_heuristic": {
+    "relevance": 5,
+    "helpfulness": 5,
+    "grounding": 5,
+    "safety": 5,
+    "overall": 5,
+    "category": "pass",
+    "reason": "Heuristic Judge: Response looks generally acceptable."
+  },
+  "2218851_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2734642_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "727157_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2313908_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1231175_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2042229_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "166680_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2096172_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2119231_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1487756_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "750605_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1800553_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2850060_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2219820_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1947864_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1867477_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2346347_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1799635_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "388992_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "139103_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2075572_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "163713_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "685843_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1643021_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1728117_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "17178_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "565380_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "613345_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2985574_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "430772_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1272605_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1070115_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "737365_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1630502_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1803619_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2313474_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "110065_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2625422_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2513538_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1570480_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1997048_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2861304_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1833300_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2793332_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1741177_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "79392_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "454703_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1879527_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1806907_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1173241_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "585113_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2782150_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "2812_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1101341_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "67728_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1247556_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "141168_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1861575_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1896923_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1981467_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1043543_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  },
+  "1273787_heuristic": {
+    "relevance": 3,
+    "helpfulness": 3,
+    "grounding": 3,
+    "safety": 5,
+    "overall": 3,
+    "category": "borderline",
+    "reason": "Heuristic Judge: System escalated the request."
+  }
+}

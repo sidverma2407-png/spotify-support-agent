@@ -215,6 +215,9 @@ def main():
     with open("results/m7_metrics.json", "w", encoding='utf-8') as f:
         json.dump(metrics, f, indent=2)
         
+    with open("results/m7_predictions.json", "w", encoding="utf-8") as f:
+        json.dump(predictions, f, indent=2)
+        
     logger.info("Evaluation Complete.")
 
 if __name__ == "__main__":

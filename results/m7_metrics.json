@@ -1,23 +1,28 @@
 {
-  "intent": {
-    "accuracy": 0.10666666666666667,
-    "macro_f1": 0.021419009370816602,
-    "weighted_f1": 0.1927710843373494,
-    "majority_baseline_accuracy": 0.0
+  "judge_info": {
+    "provider": "local",
+    "model": "heuristic",
+    "is_heuristic": true
   },
-  "action": {
-    "accuracy": 0.04,
-    "escalation_rate": 0.96,
-    "auto_handle_precision": 1.0,
-    "auto_handle_recall": 0.04,
-    "escalate_precision": 0.0,
-    "escalate_recall": 0.0
-  },
-  "judge_agreement": {
-    "accuracy": 1.0
-  },
-  "headline_metric": {
-    "name": "Percentage of Examples Correctly Handled (Intent + Appropriate Action)",
-    "value": 0.0
+  "intent_accuracy": 0.10666666666666667,
+  "intent_macro_f1": 0.021419009370816602,
+  "action_accuracy": 0.04,
+  "raw_agreement": 1.0,
+  "kappa": NaN,
+  "confusion_matrix": {
+    "labels": [
+      "pass",
+      "fail"
+    ],
+    "matrix": [
+      [
+        150,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
   }
 }
