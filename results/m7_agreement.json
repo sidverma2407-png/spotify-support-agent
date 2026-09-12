@@ -1,0 +1,9 @@
+{
+  "raw_agreement": 1.0,
+  "human_distribution": {
+    "pass": 150
+  },
+  "judge_distribution": {
+    "pass": 150
+  }
+}

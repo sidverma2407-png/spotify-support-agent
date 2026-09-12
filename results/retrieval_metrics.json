@@ -1,0 +1,30 @@
+{
+  "tfidf": {
+    "exact_recall@1": 0.0,
+    "exact_recall@3": 0.0,
+    "exact_recall@5": 0.0,
+    "exact_recall@10": 0.0,
+    "exact_mrr": 0.0,
+    "intent_recall@1": 0.487,
+    "intent_recall@3": 0.743,
+    "intent_recall@5": 0.839,
+    "intent_recall@10": 0.919,
+    "intent_mrr": 0.6329777777777781,
+    "index_time_sec": 6.062517881393433,
+    "avg_query_time_sec": 0.04945586395263672
+  },
+  "embedding": {
+    "exact_recall@1": 0.0,
+    "exact_recall@3": 0.0,
+    "exact_recall@5": 0.0,
+    "exact_recall@10": 0.0,
+    "exact_mrr": 0.0,
+    "intent_recall@1": 0.552,
+    "intent_recall@3": 0.776,
+    "intent_recall@5": 0.848,
+    "intent_recall@10": 0.912,
+    "intent_mrr": 0.6778166666666667,
+    "index_time_sec": 267.61027455329895,
+    "avg_query_time_sec": 0.11468215227127075
+  }
+}

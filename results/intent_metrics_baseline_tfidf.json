@@ -1,0 +1,176 @@
+{
+  "model": "baseline_tfidf",
+  "accuracy": 0.8474905448226515,
+  "macro_precision": 0.8319139697171516,
+  "macro_recall": 0.8334364231997191,
+  "macro_f1": 0.8276813728980739,
+  "weighted_f1": 0.8508429716688127,
+  "per_class": {
+    "account_login": {
+      "precision": 0.9554195804195804,
+      "recall": 0.8349885408708938,
+      "f1-score": 0.8911536893599674,
+      "support": 1309.0
+    },
+    "billing_subscription": {
+      "precision": 0.8926174496644296,
+      "recall": 0.83125,
+      "f1-score": 0.86084142394822,
+      "support": 1120.0
+    },
+    "playback_app_issue": {
+      "precision": 0.8370273794002607,
+      "recall": 0.8408644400785854,
+      "f1-score": 0.8389415223783078,
+      "support": 1527.0
+    },
+    "content_availability": {
+      "precision": 0.8620689655172413,
+      "recall": 0.746268656716418,
+      "f1-score": 0.8,
+      "support": 536.0
+    },
+    "ads_recommendations": {
+      "precision": 0.8403547671840355,
+      "recall": 0.79957805907173,
+      "f1-score": 0.8194594594594594,
+      "support": 474.0
+    },
+    "cancellation_refund": {
+      "precision": 0.8059701492537313,
+      "recall": 0.8852459016393442,
+      "f1-score": 0.84375,
+      "support": 183.0
+    },
+    "agent_handoff": {
+      "precision": 0.4923954372623574,
+      "recall": 0.7731343283582089,
+      "f1-score": 0.6016260162601627,
+      "support": 335.0
+    },
+    "praise_gratitude": {
+      "precision": 1.0,
+      "recall": 0.9323597232897771,
+      "f1-score": 0.9649960222752586,
+      "support": 1301.0
+    },
+    "other_unclear": {
+      "precision": 0.8013719987527284,
+      "recall": 0.857238158772515,
+      "f1-score": 0.8283642224012893,
+      "support": 2998.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      1093,
+      29,
+      42,
+      7,
+      5,
+      5,
+      16,
+      0,
+      112
+    ],
+    [
+      6,
+      931,
+      20,
+      10,
+      8,
+      8,
+      12,
+      0,
+      125
+    ],
+    [
+      1,
+      7,
+      1284,
+      3,
+      6,
+      1,
+      35,
+      0,
+      190
+    ],
+    [
+      0,
+      2,
+      18,
+      400,
+      11,
+      0,
+      9,
+      0,
+      96
+    ],
+    [
+      0,
+      2,
+      13,
+      0,
+      379,
+      0,
+      11,
+      0,
+      69
+    ],
+    [
+      5,
+      7,
+      1,
+      0,
+      0,
+      162,
+      2,
+      0,
+      6
+    ],
+    [
+      8,
+      11,
+      19,
+      0,
+      3,
+      2,
+      259,
+      0,
+      33
+    ],
+    [
+      13,
+      13,
+      14,
+      10,
+      13,
+      12,
+      7,
+      1213,
+      6
+    ],
+    [
+      18,
+      41,
+      123,
+      34,
+      26,
+      11,
+      175,
+      0,
+      2570
+    ]
+  ],
+  "labels": [
+    "account_login",
+    "billing_subscription",
+    "playback_app_issue",
+    "content_availability",
+    "ads_recommendations",
+    "cancellation_refund",
+    "agent_handoff",
+    "praise_gratitude",
+    "other_unclear"
+  ]
+}

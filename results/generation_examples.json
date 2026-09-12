@@ -1,0 +1,92 @@
+[
+  {
+    "customer_message": "@115888 By the way, i was about to avail your promo but it won\u2019t let me.",
+    "predicted_intent": "other_unclear",
+    "retrieved_evidence": "@263425 Hey there! Can you DM us your account's email address or username? We'll take a look backstage /PB",
+    "retrieval_score": 0.9007958173751831,
+    "generated_response": "This request has been escalated to a human agent.",
+    "action": "escalate",
+    "reason": "Intent is unclear",
+    "good_or_bad": "Good - Safe Escalation"
+  },
+  {
+    "customer_message": "@SpotifyCares Hi Spotify, I have an old PS4 account which got banned still linked to my Spotify account, how do I unlink them?",
+    "predicted_intent": "account_login",
+    "retrieved_evidence": "@320733 Hi there! Just to check, have you tried the steps found here: Keep us posted /MU",
+    "retrieval_score": 0.9101016521453857,
+    "generated_response": "Hi there! Just to check, have you tried the steps found here: Keep us posted",
+    "action": "auto_handle",
+    "reason": "Sufficient historical evidence with matching intent.",
+    "good_or_bad": "Good"
+  },
+  {
+    "customer_message": "@125633 yo! Is there a way to improve our listed 'related artists'. They're all very different in style to us.",
+    "predicted_intent": "other_unclear",
+    "retrieved_evidence": "@125632 Hey! We have some info on this here: check it out \ud83d\ude42 /L",
+    "retrieval_score": 0.7972142696380615,
+    "generated_response": "This request has been escalated to a human agent.",
+    "action": "escalate",
+    "reason": "Intent is unclear",
+    "good_or_bad": "Good - Safe Escalation"
+  },
+  {
+    "customer_message": "@SpotifyCares I contacted support about an issue w/ my library. The tech said he would \"investigate\", and just cancels my spotify account?",
+    "predicted_intent": "account_login",
+    "retrieved_evidence": "@505166 Hi there! We've replied to your DM. Let's carry on chatting there \ud83d\ude42 /RI",
+    "retrieval_score": 0.7822042107582092,
+    "generated_response": "This request has been escalated to a human agent.",
+    "action": "escalate",
+    "reason": "Retrieval evidence strongly disagrees on intent/topic",
+    "good_or_bad": "Good - Safe Escalation"
+  },
+  {
+    "customer_message": "@SpotifyCares Can't remove battery but will try rebooting. I'll let you know if that helps.",
+    "predicted_intent": "playback_app_issue",
+    "retrieved_evidence": "@412553 Sounds like a plan. We'll keep an eye out for your update /AR",
+    "retrieval_score": 0.6872876286506653,
+    "generated_response": "Sounds like a plan. We'll keep an eye out for your update",
+    "action": "auto_handle",
+    "reason": "Sufficient historical evidence with matching intent.",
+    "good_or_bad": "Good"
+  },
+  {
+    "customer_message": "Set up country gold the way rap caviar is set up, please @115888",
+    "predicted_intent": "content_availability",
+    "retrieved_evidence": "@569071 Hey! Our Curation team is independent &amp; use taste, data, and trends to create playlists, so there's no formal submission process. /MX",
+    "retrieval_score": 0.7080560922622681,
+    "generated_response": "Hey! Our Curation team is independent &amp; use taste, data, and trends to create playlists, so there's no formal submission process.",
+    "action": "auto_handle",
+    "reason": "Sufficient historical evidence with matching intent.",
+    "good_or_bad": "Good"
+  },
+  {
+    "customer_message": "@115888 I have been unsuccessfully trying to get the student discount for two months now and it's become very frustrating.",
+    "predicted_intent": "billing_subscription",
+    "retrieved_evidence": "@128932 Hey there, help's here! Can you DM us your account's email address? We'll take a look backstage /MV",
+    "retrieval_score": 0.8760525584220886,
+    "generated_response": "Hey there! help's here! Can you DM us your account's email address? We'll take a look backstage",
+    "action": "auto_handle",
+    "reason": "Sufficient historical evidence with matching intent.",
+    "good_or_bad": "Good"
+  },
+  {
+    "customer_message": "@SpotifyCares Thank you for the reply! I will check it out right now!",
+    "predicted_intent": "praise_gratitude",
+    "retrieved_evidence": "@410217 You're welcome! Let us know if you ever need us again. We'd be... \ud83d\ude42 /NS",
+    "retrieval_score": 0.9384147524833679,
+    "generated_response": "You're welcome! Let us know if you ever need us again. We'd be... \ud83d\ude42",
+    "action": "auto_handle",
+    "reason": "Sufficient historical evidence with matching intent.",
+    "good_or_bad": "Good"
+  },
+  {
+    "customer_message": "@SpotifyCares make me a decent playlist plz :((",
+    "predicted_intent": "ads_recommendations",
+    "retrieved_evidence": "@169836 Thanks. Can you reinstall the app on your PlayStation before trying one more time? Let us know how it goes /JU",
+    "retrieval_score": 0.8812428712844849,
+    "generated_response": "Thanks. Can you reinstall the app on your PlayStation before trying one more time? Let us know how it goes",
+    "action": "auto_handle",
+    "reason": "Sufficient historical evidence with matching intent.",
+    "good_or_bad": "Good"
+  }
+]

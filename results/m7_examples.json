@@ -1,0 +1,607 @@
+{
+  "strong": [
+    {
+      "example_id": 1407556,
+      "conversation_id": "1407556",
+      "customer_message": "@SpotifyCares Thank you for the help",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "praise_gratitude",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 1.0,
+      "retrieved_examples": [
+        {
+          "conversation_id": "2622893",
+          "score": 1.0,
+          "customer_query": "@SpotifyCares Thank you for the help!",
+          "support_response": "@588519 Anytime! We hope you have a... /JX",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "7008",
+          "score": 0.9292954636728036,
+          "customer_query": "@SpotifyCares Fasho thank you for the help",
+          "support_response": "@117212 No worries! Just give us a shout if you need anything else. We're... /JU",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "190100",
+          "score": 0.7964028698869489,
+          "customer_query": "@SpotifyCares nuuuuuuh \ud83d\udc3b\ud83d\ude2d alrighties and thank you for the help!",
+          "support_response": "@160575 You're welcome! Let us know if you ever need us again. We'd be... /KB",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "2264776",
+          "score": 0.6597086162539835,
+          "customer_query": "@SpotifyCares Thank you for the reply!",
+          "support_response": "@659249 You're welcome! Give us a shout if you ever need us again. We'd be... \ud83d\ude42 /DD",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "1046229",
+          "score": 0.6597086162539835,
+          "customer_query": "@SpotifyCares thank you for the reply!",
+          "support_response": "@367321 You're welcome! Let us know if you ever need us again. We'd be... \ud83d\ude42 /NS",
+          "intent": "praise_gratitude"
+        }
+      ],
+      "retrieval_scores": [
+        1.0,
+        0.9292954636728036,
+        0.7964028698869489,
+        0.6597086162539835,
+        0.6597086162539835
+      ],
+      "historical_baseline_response": "@588519 Anytime! We hope you have a... /JX",
+      "generated_response": "Anytime! We hope you have a...",
+      "predicted_action": "auto_handle",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "pass",
+      "judge_reason": "Response looks generally acceptable and safe."
+    },
+    {
+      "example_id": 1945226,
+      "conversation_id": "1945226",
+      "customer_message": "@SpotifyCares iOS 11.0.3/Spotify V:8.4.24.506 - just did it again on my drive to work :(",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "playback_app_issue",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 0.8509762152737143,
+      "retrieved_examples": [
+        {
+          "conversation_id": "1167979",
+          "score": 0.6723600068487285,
+          "customer_query": "@SpotifyCares iOS 11.0.3 Spotify 8.4 24.506",
+          "support_response": "@311908 It's not ideal, but the exact steps here should help out: Let us know how it goes /AM",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "1335513",
+          "score": 0.662850551502801,
+          "customer_query": "@SpotifyCares iOS 11.0.3 Spotify 8.4.24.506. Thanks",
+          "support_response": "@296044 Thanks! Does logging out, restarting your device, and logging back in help? Keep us posted /GT",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "2533681",
+          "score": 0.5669778159901233,
+          "customer_query": "@SpotifyCares iPhone 7+ Ios 11.0.3. Spotify 8.4.24.506",
+          "support_response": "@720985 Thanks. Can you DM us your account's email address and username? We'll take a look under the hood /SC",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "2436145",
+          "score": 0.5553430746196426,
+          "customer_query": "@SpotifyCares iOS 11.0.3. Spotify 8.4.24",
+          "support_response": "@698941 Thanks! Does logging out and back in help at all? Also, have you tried reinstalling Spotify? Keep us posted /BH",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "1337472",
+          "score": 0.42998881468202793,
+          "customer_query": "@SpotifyCares iPhone 7, iOS 11.0.3, Spotify version 8.4.24.506. Thank you!",
+          "support_response": "@211474 Got it. Just to check, did you start getting the issue after updating your OS or app to the latest version? /JM",
+          "intent": "praise_gratitude"
+        }
+      ],
+      "retrieval_scores": [
+        0.6723600068487285,
+        0.662850551502801,
+        0.5669778159901233,
+        0.5553430746196426,
+        0.42998881468202793
+      ],
+      "historical_baseline_response": "@311908 It's not ideal, but the exact steps here should help out: Let us know how it goes /AM",
+      "generated_response": "It's not ideal, but the exact steps here should help out: Let us know how it goes",
+      "predicted_action": "auto_handle",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "pass",
+      "judge_reason": "Response looks generally acceptable and safe."
+    },
+    {
+      "example_id": 2653120,
+      "conversation_id": "2653120",
+      "customer_message": "@SpotifyCares Makes sense. Thank you! \ud83d\ude4f\ud83c\udffc",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "praise_gratitude",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 1.0,
+      "retrieved_examples": [
+        {
+          "conversation_id": "187598",
+          "score": 0.6621378853774281,
+          "customer_query": "@SpotifyCares Sure, makes sense. Done. Thx.",
+          "support_response": "@160030 Thanks! We've just replied to your DM. Let's carry on chatting there /C",
+          "intent": "agent_handoff"
+        },
+        {
+          "conversation_id": "453461",
+          "score": 0.5574914163804584,
+          "customer_query": "@SpotifyCares @SpotifyCares thank you for answering! Makes sense. Happy Holidays!",
+          "support_response": "@222593 You're welcome! Let us know if you ever need us again. We'd be happy to help. Have a... /AN",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "1358970",
+          "score": 0.45047955003983164,
+          "customer_query": "@SpotifyCares @205426 Thank you \ud83d\ude0a\u2764",
+          "support_response": "@436836 You're welcome! If you ever need anything else, just shout and we'll come running \ud83c\udfc3 /JX",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "560940",
+          "score": 0.45047955003983164,
+          "customer_query": "@SpotifyCares @25702 thank you",
+          "support_response": "@251246 You're welcome! We're just here if you need anything else /AP",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "825199",
+          "score": 0.45047955003983164,
+          "customer_query": "@SpotifyCares Wig thank you!",
+          "support_response": "@316533 You're welcome! If you ever need us again, just give us a shout and we'll have... \ud83d\udc9a /RI",
+          "intent": "praise_gratitude"
+        }
+      ],
+      "retrieval_scores": [
+        0.6621378853774281,
+        0.5574914163804584,
+        0.45047955003983164,
+        0.45047955003983164,
+        0.45047955003983164
+      ],
+      "historical_baseline_response": "@160030 Thanks! We've just replied to your DM. Let's carry on chatting there /C",
+      "generated_response": "Thanks! We've just replied to your DM. Let's carry on chatting there /C",
+      "predicted_action": "auto_handle",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "pass",
+      "judge_reason": "Response looks generally acceptable and safe."
+    },
+    {
+      "example_id": 1768991,
+      "conversation_id": "1768991",
+      "customer_message": "@SpotifyCares when will spotify be available in Romania?",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "content_availability",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 0.9734499735759887,
+      "retrieved_examples": [
+        {
+          "conversation_id": "2459282",
+          "score": 0.7849850652970942,
+          "customer_query": "@SpotifyCares when will spotify be available in India...?",
+          "support_response": "@486276 Hey there! We're launching in new countries as often as possible. Be sure to add your email at /LO",
+          "intent": "content_availability"
+        },
+        {
+          "conversation_id": "2538270",
+          "score": 0.6964720720746335,
+          "customer_query": "@115888 when will #Spotify be available in #SouthAfrica",
+          "support_response": "@721938 Hey! We don't have any info regarding that. Don't you worry, we're launching regularly in countries around the world. Sign up here to be first to hear: If you have any other questions, you know where to reach us /DR",
+          "intent": "content_availability"
+        },
+        {
+          "conversation_id": "55258",
+          "score": 0.6500497036660905,
+          "customer_query": "When will @115888 be available in Romania ?",
+          "support_response": "@128532 Hey! We're launching regularly in countries around the world. Sign up here to be first to hear: \ud83d\ude42 /KL",
+          "intent": "content_availability"
+        },
+        {
+          "conversation_id": "303603",
+          "score": 0.6488383836486048,
+          "customer_query": "@SpotifyCares when will spotify be available in the Middle East?",
+          "support_response": "@188485 1: Hey Ali! We don't have any info to share about this, but we're launching in new countries as often as possible.",
+          "intent": "content_availability"
+        },
+        {
+          "conversation_id": "1101589",
+          "score": 0.6274831590806005,
+          "customer_query": "@115888 WHEN will spotify be available in bosnia",
+          "support_response": "@379916 Hi there! We've just sent a DM your way. Check your Messages /NJ",
+          "intent": "content_availability"
+        }
+      ],
+      "retrieval_scores": [
+        0.7849850652970942,
+        0.6964720720746335,
+        0.6500497036660905,
+        0.6488383836486048,
+        0.6274831590806005
+      ],
+      "historical_baseline_response": "@486276 Hey there! We're launching in new countries as often as possible. Be sure to add your email at /LO",
+      "generated_response": "Hey there! We're launching in new countries as often as possible. Be sure to add your email at",
+      "predicted_action": "auto_handle",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "pass",
+      "judge_reason": "Response looks generally acceptable and safe."
+    },
+    {
+      "example_id": 843737,
+      "conversation_id": "843737",
+      "customer_message": "@SpotifyCares Oh thank you! Can't wait!!! \u2665\ufe0f",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "praise_gratitude",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 1.0,
+      "retrieved_examples": [
+        {
+          "conversation_id": "2535440",
+          "score": 0.7841356769952853,
+          "customer_query": "@SpotifyCares oh thank you",
+          "support_response": "@721353 You're welcome! Let us know if you ever need us again. We'd be... \ud83d\ude42 /RE",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "760611",
+          "score": 0.575515070469095,
+          "customer_query": "@SpotifyCares Oh thank you for the information!",
+          "support_response": "@301749 No worries! Just give us a shout if you have any other questions. We're... \ud83d\udc9a /GN",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "2427683",
+          "score": 0.5016307604545815,
+          "customer_query": "@SpotifyCares \ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Can\u2019t wait!",
+          "support_response": "@697056 We know you're excited! Hopefully, we'll have an update soon. In the meantime, let us know if you need help with anything else /GU",
+          "intent": "other_unclear"
+        },
+        {
+          "conversation_id": "2287568",
+          "score": 0.5016307604545815,
+          "customer_query": "@SpotifyCares Can't wait!",
+          "support_response": "@664632 We hear you \ud83c\udfa7 Rest assured, your feedback will be passed on to the right folks. Give us a shout if you need a hand with anything else /MG",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "1068066",
+          "score": 0.47977468145863145,
+          "customer_query": "@SpotifyCares Oh \ud83d\ude15",
+          "support_response": "@372038 Thanks for the feedback. We'll pass this on to our devs and let them know this is something you'd like to see /ME",
+          "intent": "content_availability"
+        }
+      ],
+      "retrieval_scores": [
+        0.7841356769952853,
+        0.575515070469095,
+        0.5016307604545815,
+        0.5016307604545815,
+        0.47977468145863145
+      ],
+      "historical_baseline_response": "@721353 You're welcome! Let us know if you ever need us again. We'd be... \ud83d\ude42 /RE",
+      "generated_response": "You're welcome! Let us know if you ever need us again. We'd be... \ud83d\ude42",
+      "predicted_action": "auto_handle",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "pass",
+      "judge_reason": "Response looks generally acceptable and safe."
+    }
+  ],
+  "borderline": [
+    {
+      "example_id": 190109,
+      "conversation_id": "190109",
+      "customer_message": "@SpotifyCares it's a playlist in a set of folders. full path is \"feeling kind of... -&gt; ...emo -&gt; (all of the emo diaries)\". 119 songs. i was connected to wi-fi and got the errors i shared earlier. but when i paired over bluetooth i was able to play the playlist. heard of that problem before?",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "ads_recommendations",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 0.8877883819669202,
+      "retrieved_examples": [
+        {
+          "conversation_id": "831621",
+          "score": 0.2053410861436542,
+          "customer_query": "@SpotifyCares I tried Wi-Fi and LAN cable on laptop, Wi-Fi and LTE connection on cell.",
+          "support_response": "@318048 Thanks for trying. Can you DM us your account's email address or username? We'll see what else we can suggest /DD",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "1182771",
+          "score": 0.18231890662932057,
+          "customer_query": "@SpotifyCares Logout &gt; Restart &gt; Login &gt; Change Album = works! Thanks!",
+          "support_response": "@398136 Awesome! Let us know if you ever need us again. We'd be... /RH",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "1252711",
+          "score": 0.17770354483206605,
+          "customer_query": "@SpotifyCares It happens on Wi-Fi and data. Also, I have the latest version of Spotify.",
+          "support_response": "@413857 Thanks for the info. Best thing to try here is a clean reinstall. Just follow the exact steps at Keep us posted /RK",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "2298901",
+          "score": 0.16323769391168136,
+          "customer_query": "@SpotifyCares No - i was playing on mobile and I\u2019ve downloaded the songs. I was connected to spotty WiFi but the songs were still downloaded.",
+          "support_response": "@667296 Got it. Can you DM us your account's email address? We'll take a look backstage /DV",
+          "intent": "other_unclear"
+        },
+        {
+          "conversation_id": "110060",
+          "score": 0.1583647286102838,
+          "customer_query": "@SpotifyCares Both over Wi-fi, and mobile data, and with downloaded songs.",
+          "support_response": "@140436 Hmm. It's not ideal, but a reinstall might help. Just follow the steps here: Fingers crossed that'll do the trick /JE",
+          "intent": "playback_app_issue"
+        }
+      ],
+      "retrieval_scores": [
+        0.2053410861436542,
+        0.18231890662932057,
+        0.17770354483206605,
+        0.16323769391168136,
+        0.1583647286102838
+      ],
+      "historical_baseline_response": "@318048 Thanks for trying. Can you DM us your account's email address or username? We'll see what else we can suggest /DD",
+      "generated_response": "This request has been escalated to a human agent.",
+      "predicted_action": "escalate",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "borderline",
+      "judge_reason": "System escalated the request."
+    },
+    {
+      "example_id": 525719,
+      "conversation_id": "525719",
+      "customer_message": "@SpotifyCares Today, it was announced you could pay yearly for a subscription. Does this apply to the family plan also?",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "billing_subscription",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 0.852964102641635,
+      "retrieved_examples": [
+        {
+          "conversation_id": "510525",
+          "score": 0.37722854843949544,
+          "customer_query": "@SpotifyCares Does this apply to family plans?",
+          "support_response": "@237293 Hi Keith! We're afraid it's not possible to register for a full year of Premium for Family with this discounted price. Give us a shout if you have any other questions \ud83d\ude42 /DD",
+          "intent": "billing_subscription"
+        },
+        {
+          "conversation_id": "2022251",
+          "score": 0.3124417239820449,
+          "customer_query": "@115888 Does this apply to high school students?",
+          "support_response": "@689355 Hey! We're afraid it only applies to those who are actively in term at accredited colleges. Give us a shout if you have other questions /AY",
+          "intent": "other_unclear"
+        },
+        {
+          "conversation_id": "2777722",
+          "score": 0.2970896396259177,
+          "customer_query": "@SpotifyCares Today.",
+          "support_response": "@776040 Thanks for the heads up. We'll get this reported. For now, let us know if there's anything else /GT",
+          "intent": "account_login"
+        },
+        {
+          "conversation_id": "189825",
+          "score": 0.2511642026716542,
+          "customer_query": "@115888 does this apply to current students with premium? or only new members",
+          "support_response": "@189379 Hey! If you have the discount already, you can include Hulu at &gt; Activate Hulu /BH",
+          "intent": "billing_subscription"
+        },
+        {
+          "conversation_id": "189825",
+          "score": 0.21350023099334905,
+          "customer_query": "@115888 Does this apply to high school students too? We're broke too like college students",
+          "support_response": "@572195 Hey Daniel! This isn't possible right now, but you can show your support for the idea in our Community: /FR",
+          "intent": "other_unclear"
+        }
+      ],
+      "retrieval_scores": [
+        0.37722854843949544,
+        0.3124417239820449,
+        0.2970896396259177,
+        0.2511642026716542,
+        0.21350023099334905
+      ],
+      "historical_baseline_response": "@237293 Hi Keith! We're afraid it's not possible to register for a full year of Premium for Family with this discounted price. Give us a shout if you have any other questions \ud83d\ude42 /DD",
+      "generated_response": "This request has been escalated to a human agent.",
+      "predicted_action": "escalate",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "borderline",
+      "judge_reason": "System escalated the request."
+    },
+    {
+      "example_id": 2820839,
+      "conversation_id": "2820839",
+      "customer_message": "@SpotifyCares Done. No joy unfortunately, still no change in the sample rate output when switching between settings in the app...",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "agent_handoff",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 0.6976989902151886,
+      "retrieved_examples": [
+        {
+          "conversation_id": "511841",
+          "score": 0.244345217988089,
+          "customer_query": "@SpotifyCares Nope, no change in the web site's (lack of) behavior.",
+          "support_response": "@237681 Does logging in using a different browser help at all? We'll be waiting for your reply /MG",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "44307",
+          "score": 0.2404135347896016,
+          "customer_query": "@SpotifyCares Done",
+          "support_response": "@266507 Hi Kenneth! Can you DM us your account's username or email address? We'll take a look under the hood /MC",
+          "intent": "agent_handoff"
+        },
+        {
+          "conversation_id": "725987",
+          "score": 0.2404135347896016,
+          "customer_query": "@SpotifyCares Done",
+          "support_response": "@293907 Thanks! Can you try using an incognito window? Another browser might help too. Any better? /JP",
+          "intent": "agent_handoff"
+        },
+        {
+          "conversation_id": "1965555",
+          "score": 0.2404135347896016,
+          "customer_query": "@SpotifyCares Done \ud83d\udc4d\ud83c\udffb",
+          "support_response": "@582624 Nice! If you need our help in the future, just give us a... \ud83d\ude42 /RE",
+          "intent": "agent_handoff"
+        },
+        {
+          "conversation_id": "1757062",
+          "score": 0.2404135347896016,
+          "customer_query": "@SpotifyCares Done",
+          "support_response": "@529033 Awesome. We've just replied to your DM. Let's continue chatting there /DB",
+          "intent": "agent_handoff"
+        }
+      ],
+      "retrieval_scores": [
+        0.244345217988089,
+        0.2404135347896016,
+        0.2404135347896016,
+        0.2404135347896016,
+        0.2404135347896016
+      ],
+      "historical_baseline_response": "@237681 Does logging in using a different browser help at all? We'll be waiting for your reply /MG",
+      "generated_response": "This request has been escalated to a human agent.",
+      "predicted_action": "escalate",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "borderline",
+      "judge_reason": "System escalated the request."
+    },
+    {
+      "example_id": 554128,
+      "conversation_id": "554128",
+      "customer_message": "@SpotifyCares Panic over. Removed &amp; reinstalled app. All sorted. \ud83d\ude05",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "content_availability",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 0.7520062121511284,
+      "retrieved_examples": [
+        {
+          "conversation_id": "149339",
+          "score": 0.28503773286448336,
+          "customer_query": "@SpotifyCares oh nevermind guys, panic came too quick! it's all sorted out now.",
+          "support_response": "@150026 Hey, glad to hear it's been sorted out! If there's anything you need, just give us a shout /TJ",
+          "intent": "billing_subscription"
+        },
+        {
+          "conversation_id": "2150451",
+          "score": 0.28232993397621614,
+          "customer_query": "@SpotifyCares Well this is embarrassing but it\u2019s playing now \ud83d\udc40 panic over!",
+          "support_response": "@632022 Woohoo! Glad to hear everything's working okay now. You know where to find us if you ever need us again \ud83d\ude09 /CH",
+          "intent": "playback_app_issue"
+        },
+        {
+          "conversation_id": "782934",
+          "score": 0.2788066614167759,
+          "customer_query": "@SpotifyCares All sorted now, thanks",
+          "support_response": "@306894 Hi Andrew! Glad to hear everything's sorted now. Just let us know if we can help with anything else. /PL",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "1873377",
+          "score": 0.26762078973772413,
+          "customer_query": "@SpotifyCares All sorted! I guess it was delayed. Sorry for the panic and thanks for the response!",
+          "support_response": "@559353 No worries! We're glad everything's sorted out now. If you ever need us with anything else, just give us a... \ud83d\ude42 /AR",
+          "intent": "praise_gratitude"
+        },
+        {
+          "conversation_id": "2879070",
+          "score": 0.24435651317993076,
+          "customer_query": "@SpotifyCares All sorted now, thanks though \ud83d\udc4d",
+          "support_response": "@148675 That's good to hear! Give us a shout if you need us again. Otherwise... /JO",
+          "intent": "praise_gratitude"
+        }
+      ],
+      "retrieval_scores": [
+        0.28503773286448336,
+        0.28232993397621614,
+        0.2788066614167759,
+        0.26762078973772413,
+        0.24435651317993076
+      ],
+      "historical_baseline_response": "@150026 Hey, glad to hear it's been sorted out! If there's anything you need, just give us a shout /TJ",
+      "generated_response": "This request has been escalated to a human agent.",
+      "predicted_action": "escalate",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "borderline",
+      "judge_reason": "System escalated the request."
+    },
+    {
+      "example_id": 2066469,
+      "conversation_id": "2066469",
+      "customer_message": "uhm excuse me @115888 where is me &amp; my girls",
+      "gold_intent": "billing_subscription",
+      "predicted_intent": "content_availability",
+      "majority_intent": "other_unclear",
+      "classifier_confidence": 0.7904151736218772,
+      "retrieved_examples": [
+        {
+          "conversation_id": "1353064",
+          "score": 0.32477456602846355,
+          "customer_query": "Hi excuse me @115888 but where\u2019s my @34804 album \ud83e\udd14\ud83e\udd14\ud83e\udd14",
+          "support_response": "@435559 Hey there, we're here to help! What country is your Spotify account set to? We'll take a look backstage /TB",
+          "intent": "other_unclear"
+        },
+        {
+          "conversation_id": "1811726",
+          "score": 0.3055258535976751,
+          "customer_query": "@115888 where is agust d",
+          "support_response": "@544307 Hey! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have his tracks available again soon /KB",
+          "intent": "content_availability"
+        },
+        {
+          "conversation_id": "1098974",
+          "score": 0.2987738227120991,
+          "customer_query": "Excuse me @115888 wtf is this, I cannot handle this",
+          "support_response": "@379330 Hey there, we're here to help! How many tracks would you say you have in Songs (roughly)? e.g. 100, 1000, 5000, or more? /TB",
+          "intent": "other_unclear"
+        },
+        {
+          "conversation_id": "2291014",
+          "score": 0.2932089749441125,
+          "customer_query": "@115888 where is 'Reputation'?!",
+          "support_response": "@665442 Taylor Swift's 'Reputation' isn't available to stream just yet \u2013 stay tuned! For now, check out the singles: /DF",
+          "intent": "content_availability"
+        },
+        {
+          "conversation_id": "2802522",
+          "score": 0.2932089749441125,
+          "customer_query": ".@115888 WHERE is reputation",
+          "support_response": "@781770 Hey, Taylor Swift's 'Reputation' isn't available to stream just yet! For now, check out the singles: /RB",
+          "intent": "content_availability"
+        }
+      ],
+      "retrieval_scores": [
+        0.32477456602846355,
+        0.3055258535976751,
+        0.2987738227120991,
+        0.2932089749441125,
+        0.2932089749441125
+      ],
+      "historical_baseline_response": "@435559 Hey there, we're here to help! What country is your Spotify account set to? We'll take a look backstage /TB",
+      "generated_response": "This request has been escalated to a human agent.",
+      "predicted_action": "escalate",
+      "human_should_auto_handle": "yes",
+      "human_response_quality_target": "good",
+      "judge_category": "borderline",
+      "judge_reason": "System escalated the request."
+    }
+  ],
+  "failures": []
+}

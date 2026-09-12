@@ -211,3 +211,10 @@ Evaluating a generative customer support agent exclusively on heuristically deri
 - **Isolation From Training:** The 198 candidates are sourced exclusively from the conversation-isolated test split. They will absolutely not be used to train or tune thresholds.
 - **Agreement Methodology:** To measure inter-annotator agreement, a subset of examples can be double-labelled using an `--annotator` flag in the CLI, followed by calculating the raw agreement rate.
 - **Current Status:** The infrastructure, schema, and stratified candidates are **complete**. The 198 examples are currently **Pending Human Annotation**. We do NOT fabricate or auto-fill these labels using LLMs.
+
+## Final Evaluation (M7)
+M7 evaluated the complete agent on a strictly human-annotated 150-example Gold Evaluation set. 
+Metrics were calculated for Intent Classification, Escalation Correctness, and Judge Agreement. 
+LLM-as-a-judge is evaluated using openai/gpt-4o-mini when configured. 
+If no API key is available during the run, explicitly say:
+LLM judge not executed; deterministic heuristic fallback used.

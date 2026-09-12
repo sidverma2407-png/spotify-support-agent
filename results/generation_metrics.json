@@ -1,0 +1,9 @@
+{
+  "total_queries": 1000,
+  "auto_handle_rate": 0.53,
+  "escalation_rate": 0.47,
+  "avg_response_length_words": 19.266037735849057,
+  "safety_violation_rate": 0.0,
+  "baseline_safety_violation_rate": 0.002,
+  "avg_baseline_length_words": 21.465
+}

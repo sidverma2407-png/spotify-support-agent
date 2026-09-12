@@ -1,0 +1,252 @@
+[
+  {
+    "text": "@SpotifyCares Student hulu plan just deauthorized and I cannot get it fixed.... please help!",
+    "true_label": "praise_gratitude",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 first of all, where is lemonade???",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares It happens with songs that are saved/downloaded into my library",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares For some reason, I can't log in, even though I typed in the correct username and password.",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares iPhone SE running IOS 11.2 and I just updated the app, so whatever version is current.",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares why i cant play my playlist folder on iphone app? You are SPOTIFY,guys do it please!",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 My Spotify account doesn't work",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Hi I was supposed to have a 60 trial threw sprint it was on my sprint add services but Spotify gave me only seven day trial!\ud83d\ude12\ud83d\ude41",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 Misleidende reclame",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I am logged out of my account and can't access my emails to rest my password as that is blocked. Can you help?",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 Trying to kick off Andres, Jessica, and Damian. Keep Tucker.",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Did not know you guys had such a forum! Vote placed. Thanks so much",
+    "true_label": "praise_gratitude",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares \ud83e\udd14What about previous songs I've played from the discover weekly playlist?",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I need help with my account. My premium membership is not working. I have it connected through s\u00edminn.",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@139985 @SpotifyCares My Spotify is crappy if only they did care for real",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@792507 @792508 @SpotifyCares Sure will let you know. They're checking my account to see why this is. I agree it's superweird",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Pixel AND Pixel XL, both running 8.0. Both with latest Spotify version 8.4.21.508.",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares it's was little weird, soon as I logged in it downloaded a file? But it's working again now!",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@117153 I paid for premium but it won\u2019t give me premium",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares hi! I got charged for a regular spotify premium when I have the student one how can I fixed it?? Thanks in advance",
+    "true_label": "praise_gratitude",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares smh",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "Dear @115888 I wouldn't run out of skips if your app properly went to the next song. I shouldn't have to buy premium just to get basic functionality. #tryharder",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares @732021 You could always have them open source the player and let the community add proper support for *BSD.",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares hey ive sent you a DM could you please check it :)",
+    "true_label": "agent_handoff",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares can i subscribe to premium for student with my debit card?",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares i signed up 2 years ago and still its not in pakistan",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Sure!",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares why are none of the new albums out today available yet? Never had this happen before!",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares My email is __email__",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Mauubusan na naman ako ng English. Hahahaha! I\u2019ve sent you a message. Check your inbox. \ud83d\ude09",
+    "true_label": "agent_handoff",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 @SpotifyCares",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "Not sure if it\u2019s an @115858 or @115888 glitch but every time I try to listen to a song, after 5 seconds it switches to a random playlist I\u2019ve never heard of. WHAT THE FUCK. Tried reinstall, queue, nothing works! \ud83e\udd2c",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 Hello I was wondering why I am being charged twice for my music every month?",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I got a new Phone, and now the app says I am aboard and can't log in anymore while I have never left the US. Please help!",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "New with Artist's Pick: showcase your latest tour dates at the top of your artist profile. Leave a comment and add an image to get your fans hyped.",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "I still had an issue, I just can\u2019t restore my premium account and offline music from recovery playlist",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Would love if you\u2019d implement language switching in the mobile app. Run my phone in Japanese but having the jumble of names in katakana and songs/albums in English makes using the app an awful experience.",
+    "true_label": "praise_gratitude",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I just got premium but it says I have free when I use the app... I\u2019m confused",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Eminem songs aren't \u25b6 ing for me. Tried Web player. Updated. Everything else is fine.",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Did you remove the 1986 The Fly soundtrack? =(",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 After the last update the listen now button disappeared what's up?",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Can i get a refund if i cancelled my subscription and still got charged",
+    "true_label": "cancellation_refund",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I think my account has been hacked, it keeps playing on other device that I have never seen, I tried to change my Facebook password but it doesn\u2019t work :-( PLEASE HELP! I just canceled my subscription hope to stop this issue first)",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Thank you \u263a\ufe0f",
+    "true_label": "praise_gratitude",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares i'm on an iphone ios10, when i play from albums it'll play 2 songs and then stop and i have to restart spotify and shuffle play again",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I renewed my premium subscription earlier after having to downgrade, now I can\u2019t redownload my playlists+no option for premium",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Yeah all that worked! Cheers for that",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 can't believe that we are almost in 2018 and u still don't have #carmode in your mobile app. #spotify #car #mode #carmode #music",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Any update @SpotifyCares ? this is starting to cost me too much, please fix the issue or I'll give @GooglePlayMusic another go.",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Okay, get your QA team to do this. I'm done.",
+    "true_label": "agent_handoff",
+    "predicted_label": "other_unclear"
+  }
+]

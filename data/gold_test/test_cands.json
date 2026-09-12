@@ -1,0 +1,146 @@
+[
+  {
+    "conversation_id": "1407556",
+    "tweet_id": "1407555",
+    "customer_query": "@SpotifyCares iPhone 7+, ios 10.3.2, spotify version 8.4.24",
+    "support_response": "@447170 Got it. To switch off the feature, just head over to Your Library &gt; Settings (cog icon) &gt; Playback &gt; toggle off Behind the Lyrics /KB",
+    "intent": "playback_app_issue",
+    "timestamp": "2017-11-01 23:43:05"
+  },
+  {
+    "conversation_id": "1570480",
+    "tweet_id": "1570480",
+    "customer_query": "@SpotifyCares Hello, I was paying for a premium account &amp; just accepted a family plan invite - will my previous payment automatically stop?",
+    "support_response": "@484312 Hi Jessica! Can you DM us your account's email address or username? We'll take a look under the hood /GT",
+    "intent": "account_login",
+    "timestamp": "2017-11-04 14:50:02"
+  },
+  {
+    "conversation_id": "1728117",
+    "tweet_id": "1728115",
+    "customer_query": "@SpotifyCares I've send you a DM!",
+    "support_response": "@522552 Hi Nadi! We've just replied to your DM. Let's carry on chatting there /LW",
+    "intent": "agent_handoff",
+    "timestamp": "2017-11-07 10:35:18"
+  },
+  {
+    "conversation_id": "1799635",
+    "tweet_id": "1799635",
+    "customer_query": "@SpotifyCares My email and Spotify were hacked. The hacker changed the passwords to both. Can you recover my account or cancel my premium.",
+    "support_response": "@540730 Hey Erin! We're here to help. Can you DM us your account's email address? We'll take a look under the hood /AN",
+    "intent": "cancellation_refund",
+    "timestamp": "2017-10-14 01:39:27"
+  },
+  {
+    "conversation_id": "1800553",
+    "tweet_id": "1800553",
+    "customer_query": "add Present by DIA on Spotify @115888 @SpotifyCares",
+    "support_response": "@541007 Hi there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: /DD",
+    "intent": "content_availability",
+    "timestamp": "2017-10-13 03:18:48"
+  },
+  {
+    "conversation_id": "1807406",
+    "tweet_id": "1807406",
+    "customer_query": "@115888 when are you going to launch worldwide? Or in Africa ? We listen to music too \ud83d\ude12",
+    "support_response": "@542985 Hi! We're launching in new countries as often as possible. Just add your email at Anything else, let us know /NY",
+    "intent": "other_unclear",
+    "timestamp": "2017-10-14 06:10:09"
+  },
+  {
+    "conversation_id": "1811168",
+    "tweet_id": "1811166",
+    "customer_query": "@SpotifyCares I am a premium member too, so it's not that either. My playlist simply skips over the all Usher songs.",
+    "support_response": "@544143 Got it! Could you send us a DM with your account's email address and username? We'll take a look backstage /RV",
+    "intent": "billing_subscription",
+    "timestamp": "2017-10-14 23:07:12"
+  },
+  {
+    "conversation_id": "2183065",
+    "tweet_id": "2183065",
+    "customer_query": "@115888 PLEASE make an option to ad a song to multiple playlists at a time",
+    "support_response": "@639475 Hey Megan! You can show your support for the same idea in our Community: /JP",
+    "intent": "ads_recommendations",
+    "timestamp": "2017-11-09 15:51:11"
+  },
+  {
+    "conversation_id": "2219820",
+    "tweet_id": "2219820",
+    "customer_query": "@115888 I can't find a way to deactivate the lyrics, so I guess I'm not looking at the right place as it wouldn't make sense to not have that option. Those are quite annoying for me, where can I deactivate them please? :)",
+    "support_response": "@172138 Hey! To stop it displaying automatically, head to Settings &gt; Playback &gt; toggle off Behind the Lyrics /RC",
+    "intent": "content_availability",
+    "timestamp": "2017-11-26 14:24:21"
+  },
+  {
+    "conversation_id": "2653120",
+    "tweet_id": "2653118",
+    "customer_query": "@SpotifyCares Makes sense. Thank you! \ud83d\ude4f\ud83c\udffc",
+    "support_response": "@748218 No worries! Just give us a shout if you have other questions. We're... /JU",
+    "intent": "praise_gratitude",
+    "timestamp": "2017-11-19 05:21:33"
+  },
+  {
+    "conversation_id": "2782150",
+    "tweet_id": "2782150",
+    "customer_query": "@115888 your site is always 504 error ?",
+    "support_response": "@776950 Hey there! Could you DM us a screenshot of what you're seeing on your end? We'll see what we can suggest /CG",
+    "intent": "playback_app_issue",
+    "timestamp": "2017-11-21 16:55:32"
+  },
+  {
+    "conversation_id": "2912451",
+    "tweet_id": "2912451",
+    "customer_query": "@115888 Hey, I'm a 2nd Yr student @87850 but have been charged the full fee for the last 2months, had not received any reminder to reapply for the student fee... Please can you help me reclaim the additional fees, please??? #frugalliving &lt;3",
+    "support_response": "@806227 Hey Deanna! We'll help out. Can you DM us your account's email address? We'll take a look under the hood /AN",
+    "intent": "billing_subscription",
+    "timestamp": "2017-11-28 21:02:55"
+  },
+  {
+    "conversation_id": "486930",
+    "tweet_id": "486930",
+    "customer_query": "@SpotifyCares I had to cancel the debit card on file for my premium account. How do I update the information for my new debit card so that my premium service is not interrupted? I do not have an email from you guys in my inbox.",
+    "support_response": "@230864 Hey Rob! Help's here. Can you DM us your account's email address? We'll take a look backstage /CP",
+    "intent": "cancellation_refund",
+    "timestamp": "2017-12-01 13:49:16"
+  },
+  {
+    "conversation_id": "565380",
+    "tweet_id": "575702",
+    "customer_query": "@SpotifyCares @147836 Finally able to send email address",
+    "support_response": "@255468 We've just replied to your DM \ud83d\udc9a /I",
+    "intent": "account_login",
+    "timestamp": "2017-12-03 08:25:33"
+  },
+  {
+    "conversation_id": "585113",
+    "tweet_id": "585113",
+    "customer_query": "@SpotifyCares Hi, please could you create a new profile for this new artist with the same name as my favourite band @92784. Thank you!",
+    "support_response": "@258106 Hi Catherine! Thanks. We'll get this reported. Great detective work. /DV",
+    "intent": "praise_gratitude",
+    "timestamp": "2017-12-03 03:18:20"
+  },
+  {
+    "conversation_id": "613345",
+    "tweet_id": "613345",
+    "customer_query": "@SpotifyCares Trying to use the 0.99 for 3 months offer but every time I try to checkout it fails :( In NL. Previous customer.",
+    "support_response": "@265852 Hey Alexander! Can you DM us your account's username or email address? We'll take a look backstage /PL",
+    "intent": "other_unclear",
+    "timestamp": "2017-11-22 08:51:42"
+  },
+  {
+    "conversation_id": "633761",
+    "tweet_id": "633761",
+    "customer_query": "In the past 24 hours I've had @144408 update and completely break itself and @115888 get stuck on an ad that doesn't exist. Yay.",
+    "support_response": "@270222 Hey there, we'd love to help. Can you try opening the web player using a private window? Clearing your cache and cookies might help too /JP",
+    "intent": "ads_recommendations",
+    "timestamp": "2017-10-04 15:59:16"
+  },
+  {
+    "conversation_id": "670538",
+    "tweet_id": "670538",
+    "customer_query": "@148611 DM.",
+    "support_response": "@279954 Hey there! We've already replied to your DM. Check your inbox to find our response \ud83d\ude42 /CH",
+    "intent": "agent_handoff",
+    "timestamp": "2017-11-23 03:43:04"
+  }
+]

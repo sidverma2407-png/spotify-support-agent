@@ -1,0 +1,102 @@
+[
+  {
+    "incoming_query": "@115888 By the way, i was about to avail your promo but it won\u2019t let me.",
+    "query_intent": "other_unclear",
+    "top_retrieved_query": "@115888 Can\u2019t avail this promo \ud83d\ude44",
+    "top_retrieved_response": "@263425 Hey there! Can you DM us your account's email address or username? We'll take a look backstage /PB",
+    "retrieved_intent": "billing_subscription",
+    "score": 0.9007958173751831,
+    "intent_match_proxy": "Mismatch",
+    "short_explanation": "Retrieved billing_subscription vs requested other_unclear"
+  },
+  {
+    "incoming_query": "@SpotifyCares Hi Spotify, I have an old PS4 account which got banned still linked to my Spotify account, how do I unlink them?",
+    "query_intent": "account_login",
+    "top_retrieved_query": "@SpotifyCares how do i unlink my spotify from a playstation account that doesnt exist anymore?",
+    "top_retrieved_response": "@320733 Hi there! Just to check, have you tried the steps found here: Keep us posted /MU",
+    "retrieved_intent": "account_login",
+    "score": 0.9101016521453857,
+    "intent_match_proxy": "Match",
+    "short_explanation": "Retrieved account_login vs requested account_login"
+  },
+  {
+    "incoming_query": "@SpotifyCares Can't remove battery but will try rebooting. I'll let you know if that helps.",
+    "query_intent": "playback_app_issue",
+    "top_retrieved_query": "@SpotifyCares 8.4.23.784 armV7 I'm going to try again with android 'battery optimization' disabled for spotify.",
+    "top_retrieved_response": "@412553 Sounds like a plan. We'll keep an eye out for your update /AR",
+    "retrieved_intent": "playback_app_issue",
+    "score": 0.6872876286506653,
+    "intent_match_proxy": "Match",
+    "short_explanation": "Retrieved playback_app_issue vs requested playback_app_issue"
+  },
+  {
+    "incoming_query": "Set up country gold the way rap caviar is set up, please @115888",
+    "query_intent": "content_availability",
+    "top_retrieved_query": "@115888 how do i get on rap caviar",
+    "top_retrieved_response": "@569071 Hey! Our Curation team is independent &amp; use taste, data, and trends to create playlists, so there's no formal submission process. /MX",
+    "retrieved_intent": "other_unclear",
+    "score": 0.7080560922622681,
+    "intent_match_proxy": "Mismatch",
+    "short_explanation": "Retrieved other_unclear vs requested content_availability"
+  },
+  {
+    "incoming_query": "@115888 I have been unsuccessfully trying to get the student discount for two months now and it's become very frustrating.",
+    "query_intent": "billing_subscription",
+    "top_retrieved_query": "No longer getting the student discount from @115888 even though I'm still a student... Lame :(",
+    "top_retrieved_response": "@128932 Hey there, help's here! Can you DM us your account's email address? We'll take a look backstage /MV",
+    "retrieved_intent": "billing_subscription",
+    "score": 0.8760525584220886,
+    "intent_match_proxy": "Match",
+    "short_explanation": "Retrieved billing_subscription vs requested billing_subscription"
+  },
+  {
+    "incoming_query": "@SpotifyCares I didn't realize that I was paying monthly for Spotify Premium as I thought I was a member of a family premium plan, but turns out I was paying for my own Premium for no reason for a year now and I just realized today. Is there anything I can do to get a refund?",
+    "query_intent": "cancellation_refund",
+    "top_retrieved_query": "@spotifycares i got charged this month but i cancelled my premium a while ago.. who can i contact to get a refund?",
+    "top_retrieved_response": "@267844 Hey, help's here! Could you send us a DM with your account's email address or username? We'll take a look backstage /CO",
+    "retrieved_intent": "cancellation_refund",
+    "score": 0.8854565024375916,
+    "intent_match_proxy": "Match",
+    "short_explanation": "Retrieved cancellation_refund vs requested cancellation_refund"
+  },
+  {
+    "incoming_query": "@SpotifyCares Thank you for the reply! I will check it out right now!",
+    "query_intent": "praise_gratitude",
+    "top_retrieved_query": "@SpotifyCares Thank you! i\u2019ll check this out!",
+    "top_retrieved_response": "@410217 You're welcome! Let us know if you ever need us again. We'd be... \ud83d\ude42 /NS",
+    "retrieved_intent": "praise_gratitude",
+    "score": 0.9384147524833679,
+    "intent_match_proxy": "Match",
+    "short_explanation": "Retrieved praise_gratitude vs requested praise_gratitude"
+  },
+  {
+    "incoming_query": "@SpotifyCares make me a decent playlist plz :((",
+    "query_intent": "ads_recommendations",
+    "top_retrieved_query": "@SpotifyCares All the playlist \ud83d\ude14",
+    "top_retrieved_response": "@169836 Thanks. Can you reinstall the app on your PlayStation before trying one more time? Let us know how it goes /JU",
+    "retrieved_intent": "ads_recommendations",
+    "score": 0.8812428712844849,
+    "intent_match_proxy": "Match",
+    "short_explanation": "Retrieved ads_recommendations vs requested ads_recommendations"
+  },
+  {
+    "incoming_query": "@SpotifyCares please check my dm :))",
+    "query_intent": "agent_handoff",
+    "top_retrieved_query": "@SpotifyCares Hi please see my DM :)",
+    "top_retrieved_response": "@120677 Hi there! Sorry for the delay. We can help revert your account to Free and issue a refund for the payment. Just get back to us with your date of birth and the last 4 digits of your payment card for security /CP",
+    "retrieved_intent": "agent_handoff",
+    "score": 0.9549992084503174,
+    "intent_match_proxy": "Match",
+    "short_explanation": "Retrieved agent_handoff vs requested agent_handoff"
+  },
+  {
+    "incoming_query": "@SpotifyCares is there a number I can call for help? I\u2019m having trouble trying to use a gift card.",
+    "query_intent": "other_unclear",
+    "top_retrieved_query": "@SpotifyCares I sent a help message an hour ago, no reply yet?!? I bought a 3 month gift card and wont let me redeem it.",
+    "top_retrieved_response": "@670053 Hi! We've just sent a DM your way. Let's carry on chatting there /AR",
+    "retrieved_intent": "agent_handoff",
+    "score": 0.8254091739654541,
+    "intent_match_proxy": "Mismatch",
+    "short_explanation": "Retrieved agent_handoff vs requested other_unclear"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "text": "@SpotifyCares Spotify randomly switches to a device named spotiamb2.0 and pauses the device I am playing on. It happens on my PC and phone.",
+    "true_label": "other_unclear",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares Dmed!",
+    "true_label": "other_unclear",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@SpotifyCares &amp; This is why I still \u2665 @115888 lol",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares You guys are doing great, just sad you removed the feature",
+    "true_label": "praise_gratitude",
+    "predicted_label": "content_availability"
+  },
+  {
+    "text": "@SpotifyCares Private network.",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares But why that one album? Specifics plz",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "\"Sorry Not Sorry\" has been streamed more times than \"I\u2019m So Sorry\" \ud83e\udd14",
+    "true_label": "other_unclear",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares I'm just sent you the detail, please let me know if you've any update.",
+    "true_label": "agent_handoff",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares I should say, It doesn't take my money and begin my subscription. It accepts my Paypal.",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@117153 @SpotifyCares Still havinng trouble with tweeting a song",
+    "true_label": "other_unclear",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "I just signed up for Spotify Family today. Why will it renew by Nov 19? Crazy shit. 15 days Premium but charged lyk 1 month. @SpotifyCares",
+    "true_label": "cancellation_refund",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@SpotifyCares plug!!",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 why is my web player not working?! I followed all help articles, and even restarted my computer!! Haaaaaalp, my ears are so sad!! #MUST #HAVE #MUSIC",
+    "true_label": "agent_handoff",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@115888 What ? It isn\u2019t 9,99 ?",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "So annoyed with @115888 - took \u00a314.99 from my bank account, for no reason at all. I haven\u2019t signed up to upgrade-EVER. My account is &amp; has ALWAYS BEEN FREE! So please tell me why you have charged me. I have contacted my bank &amp; have made a DISPUTE. I would like my money back!",
+    "true_label": "cancellation_refund",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "@SpotifyCares How do I change my user name from snapxp688yswyipfefn5sakxo to something that I can actually use?",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares oh nevermind guys, panic came too quick! it's all sorted out now.",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I just did",
+    "true_label": "cancellation_refund",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares any update on when the Taylor Swift album is coming to Spotify?",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 You sent me an offer for premium at \u00a39.99 for three months this morning but the link supplied has no option for me to pay - Donyou want my money or not?",
+    "true_label": "agent_handoff",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@SpotifyCares Um. Just received a cancellation email (I didn't cancel), logging in works briefly then I'm auto logged out and told Error code 3, then Reset password tells me: \"The CSRF token is invalid. Please try to resubmit the form\". What's going on?",
+    "true_label": "cancellation_refund",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "@SpotifyCares Doesnt matter, lost customer",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@199354 We'd be happy to take a look. Can you follow the steps here for a diagnostic and send us the confirmation:",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares USA",
+    "true_label": "other_unclear",
+    "predicted_label": "content_availability"
+  },
+  {
+    "text": "@SpotifyCares Issue was fixed but now re-started. My account shows as free account although I pay for premium. Why does it keep doing this?",
+    "true_label": "praise_gratitude",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "@SpotifyCares 6 days later and still not being able to share the song without having the link on the tweet. please do something about this asap",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Ok, turned out got IPV6 address from my ISP, asked them to assign IPV4, now it works fine again. Sorry for bothering :)",
+    "true_label": "playback_app_issue",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "@SpotifyCares Nothing happened",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 stop fucking giving me country ads when I listen to death metal, I'm clearly not fucking interested.",
+    "true_label": "content_availability",
+    "predicted_label": "ads_recommendations"
+  },
+  {
+    "text": "@SpotifyCares That would be nice. I'm using Spotify in Japan, if that helps, so you can let them know it's super pointless.",
+    "true_label": "ads_recommendations",
+    "predicted_label": "content_availability"
+  },
+  {
+    "text": "@SpotifyCares Hey spotify, my fam cant get on the family plan and ive sent the email and entered the premium code for them.",
+    "true_label": "agent_handoff",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@SpotifyCares",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 explain why an app I pay $9.99 monthly for can\u2019t be bothered to update their app, you\u2019ve had over a month to do it this shit.",
+    "true_label": "billing_subscription",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares This is the only device I use. Both on Wi-Fi and 3G/4G",
+    "true_label": "other_unclear",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "Tadi siang saya sudah transfer &amp; tanda terimanya juga sudah dapat, tapi kenapa akun saya masih free. Ada solusi @118266 ?",
+    "true_label": "other_unclear",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@SpotifyCares Hey, I may have fixed it with a password change and sign out, but someone logged into my account remotely.",
+    "true_label": "praise_gratitude",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "@SpotifyCares playlists are fine it's only the albums",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 on two separate occasions, after an upgrade the songs I had marked as download reverted to none download. Bummer when on the train.",
+    "true_label": "billing_subscription",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@148611 @642 Bale yung load ko edi wala na haha",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Swip down does nothing no symbol as show in guide. 8.4.26.770 armV7. Andriod 7.0 Note 5",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares please Direct message me. Can\u2019t reach out to anyone at your company about some fraudulent charges. 0 points for customer service at this point.",
+    "true_label": "agent_handoff",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Sorry about that little corruption",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares How do I play an album, one piece after another? I've got a paid-for account, I go into the Android app, press the first movement of Shostakovitch 10.... and at the end it goes into U2 instead of the second movement. What's going on?",
+    "true_label": "account_login",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@115888 This promo looks interesting, but always fail when we try..... And in the end they will keep offer 49.900 for a month as nornal. Looks tricky...",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Not helpful enough. It is goodbye, Spotify.",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@117153 paid for premium but im still on free. Already received the confirmation thru email but my premium subs. is still not working",
+    "true_label": "account_login",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@115888 Trying to kick off Andres, Jessica, and Damian. Keep Tucker.",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "Hi @SpotifyCares, when you pay for Premium can't you listen on 2 different devices at the same time? Thanks",
+    "true_label": "praise_gratitude",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@SpotifyCares It\u2019s the latest version of each \ud83d\udc4d",
+    "true_label": "ads_recommendations",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "I want to reset my user name because I misspelled it. Please help! @SpotifyCares",
+    "true_label": "other_unclear",
+    "predicted_label": "account_login"
+  }
+]

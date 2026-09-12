@@ -1,0 +1,27 @@
+{
+  "dataset": {
+    "total_raw_tweets": 2811774,
+    "duplicate_tweet_ids": 0,
+    "missing_text_count": 0
+  },
+  "cleaned_dataset": {
+    "total_tweets": 2811774,
+    "inbound_customer_tweets": 1537843,
+    "outbound_support_tweets": 1273931,
+    "target_brand": "SpotifyCares",
+    "target_brand_tweet_count": 43265,
+    "date_range": [
+      "2008-05-08 20:13:59",
+      "2017-12-03 23:14:01"
+    ]
+  },
+  "conversations": {
+    "num_reconstructed": 28280,
+    "total_customer_support_pairs": 41383,
+    "length_distribution": {
+      "min": 2,
+      "max": 354,
+      "mean": 3.25
+    }
+  }
+}

@@ -1,0 +1,252 @@
+[
+  {
+    "text": "@SpotifyCares how do I grant permission to family members to access full settings on their personal devices?",
+    "true_label": "billing_subscription",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "@SpotifyCares All set!",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Bring back the music previews please!!",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares __email__, ty",
+    "true_label": "billing_subscription",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares why are we voting on an idea that you promised us already",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Will do.",
+    "true_label": "other_unclear",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares Yup just checked 3 or 4 artists and only like 30 songs in the queue. This is also on mobile if that makes a difference",
+    "true_label": "other_unclear",
+    "predicted_label": "content_availability"
+  },
+  {
+    "text": "@SpotifyCares hello I tried to sign up for the student promotion, it didn't let go through cause sheerID didn't let me upload my docs , and I ended up getting charge 3 times, I want my money back please !",
+    "true_label": "cancellation_refund",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@SpotifyCares When I search up a song and click on it, it plays a different song every time",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 I best be getting a whole week of ad free music with the size of this ad what",
+    "true_label": "praise_gratitude",
+    "predicted_label": "ads_recommendations"
+  },
+  {
+    "text": "@115888 + I request that the overpayments be returned!",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Done. Still going to the previous episode",
+    "true_label": "agent_handoff",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Is this a common issue? I've noticed that there have been a few people on the feed complaining of this",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares You should talk to @863 and try to get Got7 and Twice on Spotify. I need this. Please",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares",
+    "true_label": "other_unclear",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares Seems I had to log in on my desktop + phone at the same time... It's working now!",
+    "true_label": "account_login",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares @593246 @593247",
+    "true_label": "other_unclear",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares @11805 You f uckn thieves!",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares.When I link my Spotify account to my Echo to play on Sonos, I can't play Spotify on my phone or desktop app",
+    "true_label": "account_login",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares Thanks - my problem on that point is I only listen offline on one device, why can\u2019t I save 9,999 songs then? I would assume that is a licensing issue that you can\u2019t change. My downloads only work when I\u2019m in the app, I can\u2019t minimise the app and it carrys on very frustrating....",
+    "true_label": "praise_gratitude",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares Nope!",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares hahahhaha thaaaanks!!!! \ud83d\udc99\ud83d\udc99\ud83d\udc99",
+    "true_label": "other_unclear",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@115888 I register to 129 globe bit it doesnt work.",
+    "true_label": "other_unclear",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@115888 I've been arguing with a service rep for 20 minutes. She doesn't understand that I renewed it a month ago and they cancelled it today \ud83d\ude43",
+    "true_label": "cancellation_refund",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares It says they already decided not to change it - when it comes to money vs customer satisfaction, money always wins.",
+    "true_label": "other_unclear",
+    "predicted_label": "cancellation_refund"
+  },
+  {
+    "text": "@SpotifyCares I know it\u2019s not possible. Seems this idea was shared on the community page in a letter dated in 2015. Glad to know this company acts fast. \ud83d\ude44",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Oh, comment on a forum thread from 2012? Would of thought you could have sorted something out in the last 5 years.",
+    "true_label": "content_availability",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares Did all the steps you told me too, redownloaded all songs, today they got deleted again",
+    "true_label": "playback_app_issue",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares uh I was trying to get the student Spotify discount and your website said you hadn't charged my card yet but when I checked my account you charged my card three times and I hadn't even done the verification and I checked my account isn't even premium. seriously?",
+    "true_label": "agent_handoff",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "@SpotifyCares Sure!",
+    "true_label": "other_unclear",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares Yes I tried that and it is not working. Also I can't find the local files folder on my iPhone.",
+    "true_label": "content_availability",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares my premium subscription has been cancelled because my card has expired. I have the app on my phone and I don\u2019t know my log in details to update my card detail, can you please help. #nomusicsucks",
+    "true_label": "account_login",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "ok, @115888 deleted my offline albums again. Any recommendation where to migrate? Apple not an option",
+    "true_label": "ads_recommendations",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares No",
+    "true_label": "other_unclear",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares :-)",
+    "true_label": "other_unclear",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares I will try it out. Is that the only solution you guys have? Because I just saw this issue being posted about for months now. And it's pretty ongoing without a solution it seems.",
+    "true_label": "account_login",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares need to cancel my account. Problem is no idea what email was used. Tried them all. How can I cancel. Need help. Thanks",
+    "true_label": "praise_gratitude",
+    "predicted_label": "cancellation_refund"
+  },
+  {
+    "text": "@SpotifyCares And will sending it out to the community get the software developers' attention?",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares Why is the Library limited? Now I have to remove my fav music? I think that these data should help you with the Recommendation",
+    "true_label": "ads_recommendations",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares I tried all those prior to reaching out #FRustrated",
+    "true_label": "other_unclear",
+    "predicted_label": "content_availability"
+  },
+  {
+    "text": "@SpotifyCares You have not updated our email for why Run in Red is having some of its songs played on Spotify radio but we cannot start a run in Red radio station",
+    "true_label": "account_login",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@115888 @SpotifyCares I have uninstalled and reinstalled a few times and still nothing",
+    "true_label": "playback_app_issue",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares hi, I cannot subscribe to the offer for premium (re-engagement offer). I received the email but I last ended the subscription in August.",
+    "true_label": "account_login",
+    "predicted_label": "billing_subscription"
+  },
+  {
+    "text": "@115888 can you please add Andra &amp; Mara - Sweet Dreams (Radio Killer Remix) I think the people will like it",
+    "true_label": "praise_gratitude",
+    "predicted_label": "content_availability"
+  },
+  {
+    "text": "@115888 - App not working when trying to sign in! What\u2019s going on??!",
+    "true_label": "account_login",
+    "predicted_label": "playback_app_issue"
+  },
+  {
+    "text": "@SpotifyCares Weekender by flowered up!! Defo NSFW.",
+    "true_label": "ads_recommendations",
+    "predicted_label": "agent_handoff"
+  },
+  {
+    "text": "@SpotifyCares United States",
+    "true_label": "other_unclear",
+    "predicted_label": "content_availability"
+  },
+  {
+    "text": "@115888 Why am I not eligible for this?",
+    "true_label": "billing_subscription",
+    "predicted_label": "other_unclear"
+  },
+  {
+    "text": "@SpotifyCares my card I used in my spotify account was stolen and already blocked, my new card will arrive after 10 days, will my premium account be suspended? Thank you fam.",
+    "true_label": "praise_gratitude",
+    "predicted_label": "account_login"
+  },
+  {
+    "text": "put take care back up uglies @117168",
+    "true_label": "content_availability",
+    "predicted_label": "other_unclear"
+  }
+]

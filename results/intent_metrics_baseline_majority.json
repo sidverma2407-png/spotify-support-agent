@@ -1,0 +1,176 @@
+{
+  "model": "baseline_majority",
+  "accuracy": 0.3064499642236533,
+  "macro_precision": 0.034049996024850364,
+  "macro_recall": 0.1111111111111111,
+  "macro_f1": 0.05212598562101731,
+  "weighted_f1": 0.14376605785815078,
+  "per_class": {
+    "account_login": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1309.0
+    },
+    "billing_subscription": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1120.0
+    },
+    "playback_app_issue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1527.0
+    },
+    "content_availability": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 536.0
+    },
+    "ads_recommendations": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 474.0
+    },
+    "cancellation_refund": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 183.0
+    },
+    "agent_handoff": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 335.0
+    },
+    "praise_gratitude": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1301.0
+    },
+    "other_unclear": {
+      "precision": 0.3064499642236533,
+      "recall": 1.0,
+      "f1-score": 0.4691338705891558,
+      "support": 2998.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1309
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1120
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1527
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      536
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      474
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      183
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      335
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1301
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2998
+    ]
+  ],
+  "labels": [
+    "account_login",
+    "billing_subscription",
+    "playback_app_issue",
+    "content_availability",
+    "ads_recommendations",
+    "cancellation_refund",
+    "agent_handoff",
+    "praise_gratitude",
+    "other_unclear"
+  ]
+}
