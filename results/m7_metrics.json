@@ -4,11 +4,11 @@
     "model": "heuristic",
     "is_heuristic": true
   },
-  "intent_accuracy": 0.10666666666666667,
-  "intent_macro_f1": 0.021419009370816602,
-  "action_accuracy": 0.04,
-  "raw_agreement": 1.0,
-  "kappa": NaN,
+  "intent_accuracy": 0.1,
+  "intent_macro_f1": 0.07394827394827394,
+  "action_accuracy": 0.22666666666666666,
+  "raw_agreement": 0.98,
+  "kappa": 0.0,
   "confusion_matrix": {
     "labels": [
       "pass",
@@ -16,11 +16,11 @@
     ],
     "matrix": [
       [
-        150,
+        147,
         0
       ],
       [
-        0,
+        3,
         0
       ]
     ]

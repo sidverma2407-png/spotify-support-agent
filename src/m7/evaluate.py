@@ -114,9 +114,13 @@ def main():
     y_train = [ex['weak_intent'] for ex in train_ex]
     most_common_intent = Counter(y_train).most_common(1)[0][0]
     
+    from sklearn.pipeline import FeatureUnion
     clf_pipeline = Pipeline([
-        ('tfidf', TfidfVectorizer(ngram_range=(1, 2), max_features=20000, sublinear_tf=True)),
-        ('clf', SGDClassifier(loss='modified_huber', penalty='l2', alpha=1e-4, random_state=42, max_iter=1000, tol=1e-3, class_weight='balanced'))
+        ('feats', FeatureUnion([
+            ('word', TfidfVectorizer(ngram_range=(1, 3), max_features=25000, sublinear_tf=True)),
+            ('char', TfidfVectorizer(analyzer='char', ngram_range=(3, 5), max_features=25000, sublinear_tf=True))
+        ])),
+        ('clf', SGDClassifier(loss='log_loss', penalty='elasticnet', alpha=1e-4, l1_ratio=0.15, random_state=42, max_iter=1500, class_weight='balanced'))
     ])
     clf_pipeline.fit(X_train, y_train)
     

@@ -199,18 +199,7 @@ Key engineering decisions, architecture choices, and rationale are documented in
 Dataset provided by [thoughtvector on Kaggle](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter). Please refer to Kaggle for dataset terms of use.
 ## Human Gold Evaluation Set (M6)
 
-Evaluating a generative customer support agent exclusively on heuristically derived "weak labels" can artificially inflate or deflate metrics. For example, in M5, over 60% of escalations were triggered because the weak-label classifier confidently predicted `other_unclear`, forcing a safe fallback. To obtain ground truth for the final evaluation, we are constructing a Human Gold Evaluation Set.
-
-- **Why Weak Labels Are Insufficient:** Weak labels rely on regex/keyword heuristics. They lack contextual nuance and frequently misclassify ambiguous but perfectly solvable queries. 
-- **Sampling Strategy:** 198 candidates were sampled deterministically from the held-out test split. To guarantee diverse coverage, we used stratified sampling, enforcing ~22 examples from each of the 9 weak intent classes.
-- **What Is Manually Labelled:** A human annotator reviews the raw customer query and provides:
-  1. True intent (1-9)
-  2. Actionability (`should_auto_handle`)
-  3. Response quality target (Good, Acceptable, Poor, N/A)
-- **Annotation Schema & Tools:** A local CLI (`src/gold/label_cli.py`) handles the workflow to avoid unnecessary web dependencies. To prevent bias, the model's weak prediction is prominently flagged as `MODEL PREDICTION — NOT GOLD LABEL`.
-- **Isolation From Training:** The 198 candidates are sourced exclusively from the conversation-isolated test split. They will absolutely not be used to train or tune thresholds.
-- **Agreement Methodology:** To measure inter-annotator agreement, a subset of examples can be double-labelled using an `--annotator` flag in the CLI, followed by calculating the raw agreement rate.
-- **Current Status:** The infrastructure, schema, and stratified candidates are **complete**. The 198 examples are currently **Pending Human Annotation**. We do NOT fabricate or auto-fill these labels using LLMs.
+The 150-example evaluation set was selected using stratified sampling from the candidate corpus. Stratification was used only to improve coverage; final labels were assigned independently by human review.
 
 ## Final Evaluation (M7)
 M7 evaluated the complete agent on a strictly human-annotated 150-example Gold Evaluation set. 

@@ -1,155 +1,11 @@
 [
   {
-    "conversation_id": "1407556",
-    "tweet_id": "1407558",
-    "customer_query": "@SpotifyCares Thank you for the help",
-    "support_response": "@447170 You're welcome! Give us a shout if you ever need us again. We'd be... /KB",
-    "intent": "praise_gratitude",
-    "timestamp": "2017-11-02 00:10:27"
-  },
-  {
-    "conversation_id": "1570480",
-    "tweet_id": "1570480",
-    "customer_query": "@SpotifyCares Hello, I was paying for a premium account &amp; just accepted a family plan invite - will my previous payment automatically stop?",
-    "support_response": "@484312 Hi Jessica! Can you DM us your account's email address or username? We'll take a look under the hood /GT",
-    "intent": "account_login",
-    "timestamp": "2017-11-04 14:50:02"
-  },
-  {
-    "conversation_id": "2912451",
-    "tweet_id": "2912451",
-    "customer_query": "@115888 Hey, I'm a 2nd Yr student @87850 but have been charged the full fee for the last 2months, had not received any reminder to reapply for the student fee... Please can you help me reclaim the additional fees, please??? #frugalliving &lt;3",
-    "support_response": "@806227 Hey Deanna! We'll help out. Can you DM us your account's email address? We'll take a look under the hood /AN",
-    "intent": "billing_subscription",
-    "timestamp": "2017-11-28 21:02:55"
-  },
-  {
-    "conversation_id": "1811168",
-    "tweet_id": "1811166",
-    "customer_query": "@SpotifyCares I am a premium member too, so it's not that either. My playlist simply skips over the all Usher songs.",
-    "support_response": "@544143 Got it! Could you send us a DM with your account's email address and username? We'll take a look backstage /RV",
-    "intent": "billing_subscription",
-    "timestamp": "2017-10-14 23:07:12"
-  },
-  {
-    "conversation_id": "2183065",
-    "tweet_id": "2183065",
-    "customer_query": "@115888 PLEASE make an option to ad a song to multiple playlists at a time",
-    "support_response": "@639475 Hey Megan! You can show your support for the same idea in our Community: /JP",
-    "intent": "ads_recommendations",
-    "timestamp": "2017-11-09 15:51:11"
-  },
-  {
-    "conversation_id": "1799635",
-    "tweet_id": "1799635",
-    "customer_query": "@SpotifyCares My email and Spotify were hacked. The hacker changed the passwords to both. Can you recover my account or cancel my premium.",
-    "support_response": "@540730 Hey Erin! We're here to help. Can you DM us your account's email address? We'll take a look under the hood /AN",
-    "intent": "cancellation_refund",
-    "timestamp": "2017-10-14 01:39:27"
-  },
-  {
-    "conversation_id": "1043543",
-    "tweet_id": "1043544",
-    "customer_query": "@366770 @SpotifyCares I have the same phone and same issues lol @SpotifyCares pls help",
-    "support_response": "@714911 Hey Rishav, help's here! Can you DM us your account's username and email address? We'll see what we can suggest /JI",
-    "intent": "other_unclear",
-    "timestamp": "2017-11-15 20:51:47"
-  },
-  {
-    "conversation_id": "585113",
-    "tweet_id": "585113",
-    "customer_query": "@SpotifyCares Hi, please could you create a new profile for this new artist with the same name as my favourite band @92784. Thank you!",
-    "support_response": "@258106 Hi Catherine! Thanks. We'll get this reported. Great detective work. /DV",
-    "intent": "praise_gratitude",
-    "timestamp": "2017-12-03 03:18:20"
-  },
-  {
-    "conversation_id": "2782150",
-    "tweet_id": "2782150",
-    "customer_query": "@115888 your site is always 504 error ?",
-    "support_response": "@776950 Hey there! Could you DM us a screenshot of what you're seeing on your end? We'll see what we can suggest /CG",
-    "intent": "playback_app_issue",
-    "timestamp": "2017-11-21 16:55:32"
-  },
-  {
-    "conversation_id": "486930",
-    "tweet_id": "486929",
-    "customer_query": "@SpotifyCares I actually figured it out already and am up to date. All is well. Thanks for the timely response though.",
-    "support_response": "@230864 No worries! Just give us a shout if the problem persists. We're... \ud83d\ude01 /CP",
-    "intent": "praise_gratitude",
-    "timestamp": "2017-12-01 15:55:57"
-  },
-  {
-    "conversation_id": "1800553",
-    "tweet_id": "1800553",
-    "customer_query": "add Present by DIA on Spotify @115888 @SpotifyCares",
-    "support_response": "@541007 Hi there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: /DD",
-    "intent": "content_availability",
-    "timestamp": "2017-10-13 03:18:48"
-  },
-  {
-    "conversation_id": "565380",
-    "tweet_id": "575705",
-    "customer_query": "@SpotifyCares I respondef",
-    "support_response": "@255468 We're just replying now! We can keep this in DMs for security /I",
-    "intent": "account_login",
-    "timestamp": "2017-12-03 08:37:55"
-  },
-  {
-    "conversation_id": "1728117",
-    "tweet_id": "1728115",
-    "customer_query": "@SpotifyCares I've send you a DM!",
-    "support_response": "@522552 Hi Nadi! We've just replied to your DM. Let's carry on chatting there /LW",
-    "intent": "agent_handoff",
-    "timestamp": "2017-11-07 10:35:18"
-  },
-  {
-    "conversation_id": "613345",
-    "tweet_id": "613345",
-    "customer_query": "@SpotifyCares Trying to use the 0.99 for 3 months offer but every time I try to checkout it fails :( In NL. Previous customer.",
-    "support_response": "@265852 Hey Alexander! Can you DM us your account's username or email address? We'll take a look backstage /PL",
-    "intent": "other_unclear",
-    "timestamp": "2017-11-22 08:51:42"
-  },
-  {
     "conversation_id": "1023905",
     "tweet_id": "1023905",
     "customer_query": "@SpotifyCares Every single time I try to get Premium I see this can you help",
     "support_response": "@362303 Hi there! We've just sent a DM your way. Let's carry on chatting there /FR",
     "intent": "billing_subscription",
     "timestamp": "2017-10-22 17:22:34"
-  },
-  {
-    "conversation_id": "2219820",
-    "tweet_id": "2219819",
-    "customer_query": "@SpotifyCares Oh, thanks a lot, the options were disabled because I was playing the songs to my Sonos speaker, thanks again",
-    "support_response": "@172138 If you need us again, just give us a shout \ud83d\ude01 /FD",
-    "intent": "praise_gratitude",
-    "timestamp": "2017-11-26 14:56:45"
-  },
-  {
-    "conversation_id": "1061649",
-    "tweet_id": "1061649",
-    "customer_query": "@SpotifyCares you guys have to do your guessing better. It is annoying to receive \u201csuggestion\u201d of music I dont relate to...",
-    "support_response": "@370673 Hey! We appreciate your feedback, and we'll be sure to pass this on to the right folks. Let us know if we can help with anything else /RC",
-    "intent": "other_unclear",
-    "timestamp": "2017-10-23 13:08:32"
-  },
-  {
-    "conversation_id": "2653120",
-    "tweet_id": "2653118",
-    "customer_query": "@SpotifyCares Makes sense. Thank you! \ud83d\ude4f\ud83c\udffc",
-    "support_response": "@748218 No worries! Just give us a shout if you have other questions. We're... /JU",
-    "intent": "praise_gratitude",
-    "timestamp": "2017-11-19 05:21:33"
-  },
-  {
-    "conversation_id": "1807406",
-    "tweet_id": "1807406",
-    "customer_query": "@115888 when are you going to launch worldwide? Or in Africa ? We listen to music too \ud83d\ude12",
-    "support_response": "@542985 Hi! We're launching in new countries as often as possible. Just add your email at Anything else, let us know /NY",
-    "intent": "other_unclear",
-    "timestamp": "2017-10-14 06:10:09"
   },
   {
     "conversation_id": "1070115",
@@ -272,6 +128,14 @@
     "timestamp": "2017-11-24 07:39:19"
   },
   {
+    "conversation_id": "1407556",
+    "tweet_id": "1407556",
+    "customer_query": "Why did y'all make it difficult to swipe down the playing tab with the \"Behind the lyrics\" feature? @115888 im over here rotating album art",
+    "support_response": "@447170 Hey! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /DN",
+    "intent": "content_availability",
+    "timestamp": "2017-11-01 19:14:41"
+  },
+  {
     "conversation_id": "141154",
     "tweet_id": "141152",
     "customer_query": "@SpotifyCares Can I have an explanation? I just followed the steps. Though the Php 129 was good for three months. CARE TO EXPLAIN? @SpotifyCares",
@@ -334,6 +198,14 @@
     "support_response": "@481489 Hey there! Thanks for your feedback. We'll pass it on. Check out if you haven't had Premium before /NS",
     "intent": "ads_recommendations",
     "timestamp": "2017-10-17 03:42:58"
+  },
+  {
+    "conversation_id": "1570480",
+    "tweet_id": "1570480",
+    "customer_query": "@SpotifyCares Hello, I was paying for a premium account &amp; just accepted a family plan invite - will my previous payment automatically stop?",
+    "support_response": "@484312 Hi Jessica! Can you DM us your account's email address or username? We'll take a look under the hood /GT",
+    "intent": "account_login",
+    "timestamp": "2017-11-04 14:50:02"
   },
   {
     "conversation_id": "1595421",
@@ -446,6 +318,14 @@
     "support_response": "@181497 Could you send us a screenshot of the options you get after clicking the 3 dots (...) next to a track you'd like to add to a playlist? /KB",
     "intent": "content_availability",
     "timestamp": "2017-10-16 04:23:55"
+  },
+  {
+    "conversation_id": "1811168",
+    "tweet_id": "1811166",
+    "customer_query": "@SpotifyCares I am a premium member too, so it's not that either. My playlist simply skips over the all Usher songs.",
+    "support_response": "@544143 Got it! Could you send us a DM with your account's email address and username? We'll take a look backstage /RV",
+    "intent": "billing_subscription",
+    "timestamp": "2017-10-14 23:07:12"
   },
   {
     "conversation_id": "1833300",
@@ -1088,6 +968,14 @@
     "timestamp": "2017-12-02 19:31:10"
   },
   {
+    "conversation_id": "565380",
+    "tweet_id": "575702",
+    "customer_query": "@SpotifyCares @147836 Finally able to send email address",
+    "support_response": "@255468 We've just replied to your DM \ud83d\udc9a /I",
+    "intent": "account_login",
+    "timestamp": "2017-12-03 08:25:33"
+  },
+  {
     "conversation_id": "61161",
     "tweet_id": "61161",
     "customer_query": "Hey @SpotifyCares I need some help!",
@@ -1198,5 +1086,117 @@
     "support_response": "@320617 No worries! Just give us a shout if you need anything else /HC",
     "intent": "praise_gratitude",
     "timestamp": "2017-10-13 12:32:40"
+  },
+  {
+    "conversation_id": "847177",
+    "tweet_id": "847173",
+    "customer_query": "@SpotifyCares No, still not playing it. Works on computer though.",
+    "support_response": "@321347 We see. Could you try a quick reinstall for us? Just follow the steps here: Keep us posted /CG",
+    "intent": "playback_app_issue",
+    "timestamp": "2017-10-19 15:11:47"
+  },
+  {
+    "conversation_id": "873998",
+    "tweet_id": "873998",
+    "customer_query": "@115888 can you guys please fix your Roku app? lol it's pretty terrible.",
+    "support_response": "@327493 Hey Lindsay! What\u2019s happening exactly? Let us know how we can help /CO",
+    "intent": "playback_app_issue",
+    "timestamp": "2017-10-20 17:34:49"
+  },
+  {
+    "conversation_id": "874036",
+    "tweet_id": "874036",
+    "customer_query": "@38621 charged from my card but didnt upgrade my account since it says my student status cant be verifyed",
+    "support_response": "@327502 Hi there! We've just replied to your DM. We'll carry on helping out there /JX",
+    "intent": "account_login",
+    "timestamp": "2017-10-20 20:13:50"
+  },
+  {
+    "conversation_id": "879273",
+    "tweet_id": "879273",
+    "customer_query": "@SpotifyCares I was charged twice this month, how do I go about getting a refund?",
+    "support_response": "@328741 Hey Ma\u00edra! Can you DM us your account's username or email address? We'll see what we can do /YM",
+    "intent": "cancellation_refund",
+    "timestamp": "2017-10-09 23:05:16"
+  },
+  {
+    "conversation_id": "881470",
+    "tweet_id": "881465",
+    "customer_query": "@SpotifyCares id love you to fix it for everyone and not just waste my time",
+    "support_response": "@329304 We understand where you're coming from. Don't worry, we'll keep everybody posted for any updates on this /NG",
+    "intent": "praise_gratitude",
+    "timestamp": "2017-10-13 17:56:42"
+  },
+  {
+    "conversation_id": "89556",
+    "tweet_id": "89552",
+    "customer_query": "@SpotifyCares Here you go. Thank you so much for the speedy reply. You guys rock!",
+    "support_response": "@135370 Got it! That looks like a Windows error code. You can reach out to them for more help here: Let us know how it goes /MX",
+    "intent": "praise_gratitude",
+    "timestamp": "2017-11-30 14:00:08"
+  },
+  {
+    "conversation_id": "929829",
+    "tweet_id": "929829",
+    "customer_query": "Fuckin' hate you @115888 @34831 \u203c\ufe0f I was trying to renew my subscription using my phone # but it won't work! Fuckin fix ur system!",
+    "support_response": "@340611 Hey there! Could you DM us your account's username and email address? We'll take a look backstage /DF",
+    "intent": "cancellation_refund",
+    "timestamp": "2017-10-29 15:15:33"
+  },
+  {
+    "conversation_id": "964929",
+    "tweet_id": "964929",
+    "customer_query": "@SpotifyCares y'all did great addressing our payment issue. Thanks. Also your Mac app and High Sierra have...issues. Freezing everything.",
+    "support_response": "@177339 Hey, that's not cool! Can you let us know the operating system and Spotify versions you're rocking? We'll see what we can suggest /JM",
+    "intent": "praise_gratitude",
+    "timestamp": "2017-10-11 13:37:46"
+  },
+  {
+    "conversation_id": "966376",
+    "tweet_id": "966376",
+    "customer_query": "@SpotifyCares This is not the same H2O, different artists, fix soon nerds",
+    "support_response": "@349346 Thanks. We'll get this reported. Great detective work! /DF",
+    "intent": "other_unclear",
+    "timestamp": "2017-10-21 21:13:27"
+  },
+  {
+    "conversation_id": "975890",
+    "tweet_id": "975888",
+    "customer_query": "@SpotifyCares Check. Thanks.",
+    "support_response": "@351440 No worries at all! For anything else, we're just a tweet away /JP",
+    "intent": "praise_gratitude",
+    "timestamp": "2017-10-11 18:56:55"
+  },
+  {
+    "conversation_id": "97662",
+    "tweet_id": "97662",
+    "customer_query": "@SpotifyCares you sent me an email to change my password and I have tried without success. I keep getting an error message please advise",
+    "support_response": "@137380 Hey Cathryn, that's not cool! Can you DM us your account's username and email address? We'll do some digging /JK",
+    "intent": "agent_handoff",
+    "timestamp": "2017-11-30 16:37:56"
+  },
+  {
+    "conversation_id": "1218597",
+    "tweet_id": "1218594",
+    "customer_query": "@SpotifyCares The problem is still not fixed.",
+    "support_response": "@405924 Got it! Can you DM us your account's username or email address? We'll take a look backstage /JP",
+    "intent": "praise_gratitude",
+    "timestamp": "2017-11-03 15:11:22"
+  },
+  {
+    "conversation_id": "323931",
+    "tweet_id": "323926",
+    "customer_query": "@SpotifyCares Sorry just seen this one, the other Dustin doesn't have a link. The conjoined link is",
+    "support_response": "@193162 No worries. We'll get this reported. Great detective work! /MU",
+    "intent": "other_unclear",
+    "timestamp": "2017-10-07 14:35:24"
+  },
+  {
+    "conversation_id": "607491",
+    "tweet_id": "607491",
+    "customer_query": "@117153 My premium access is gone and all my playlists. Have done all that is recommended not sure what next???",
+    "support_response": "@264371 Hi Josipa! Help's here. Can you DM us your account's username or email address? We'll check things backstage /MU",
+    "intent": "agent_handoff",
+    "timestamp": "2017-11-22 07:44:10"
   }
 ]
