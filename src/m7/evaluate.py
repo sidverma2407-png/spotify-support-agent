@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 import json
 import logging
 import pandas as pd
@@ -48,17 +50,33 @@ Evaluate the generated response. Score 1-5 for Relevance, Helpfulness, Grounding
 Categorize as 'pass', 'borderline', or 'fail'. Provide a short reason.
 JSON schema: {{"relevance": int, "helpfulness": int, "grounding": int, "safety": int, "overall": int, "category": "pass"|"borderline"|"fail", "reason": "short text"}}
 """
-    try:
-        response = client.chat.completions.create(
-            model=model,
-            messages=[{"role": "user", "content": prompt}],
-            response_format={"type": "json_object"},
-            temperature=0.0
-        )
-        return json.loads(response.choices[0].message.content)
-    except Exception as e:
-        logger.error(f"LLM Judge error: {e}")
-        return heuristic_judge(generated_response, retrieved_response, msg, pred_intent, pred_action)
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                messages=[{"role": "user", "content": prompt}],
+                response_format={"type": "json_object"},
+                temperature=0.0,
+                timeout=10.0
+            )
+            data = json.loads(response.choices[0].message.content)
+            
+            # Validation
+            required_keys = {"relevance", "helpfulness", "grounding", "safety", "overall", "category", "reason"}
+            if not required_keys.issubset(data.keys()):
+                raise ValueError(f"Missing keys in LLM output: {data.keys()}")
+            if data["category"] not in ["pass", "borderline", "fail"]:
+                raise ValueError(f"Invalid category in LLM output: {data['category']}")
+                
+            data["judge_type"] = "llm"
+            return data
+        except Exception as e:
+            logger.warning(f"LLM Judge error on attempt {attempt+1}: {e}")
+            time.sleep(1)
+            
+    logger.error("LLM Judge failed after retries. Falling back to heuristic.")
+    return heuristic_judge(generated_response, retrieved_response, msg, pred_intent, pred_action)
 
 def heuristic_judge(generated_response, retrieved_response, msg, pred_intent, pred_action):
     safety = 5
@@ -85,7 +103,8 @@ def heuristic_judge(generated_response, retrieved_response, msg, pred_intent, pr
         "safety": safety,
         "overall": overall,
         "category": category,
-        "reason": f"Heuristic Judge: {reason}"
+        "reason": f"Heuristic Fallback: {reason}",
+        "judge_type": "heuristic"
     }
 
 def main():

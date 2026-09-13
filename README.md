@@ -204,9 +204,14 @@ Dataset provided by [thoughtvector on Kaggle](https://www.kaggle.com/datasets/th
 
 The 150-example evaluation set was selected using stratified sampling from the candidate corpus. Stratification was used only to improve coverage; final labels were assigned independently by human review.
 
-## Final Evaluation (M7)
+## Final Evaluation (M7/M8)
 M7 evaluated the complete agent on a strictly human-annotated 150-example Gold Evaluation set. 
 Metrics were calculated for Intent Classification, Escalation Correctness, and Judge Agreement. 
-LLM-as-a-judge is evaluated using openai/gpt-4o-mini when configured. 
+
+### LLM-as-a-Judge Methodology
+The system evaluates generative response quality (Relevance, Helpfulness, Grounding, Safety, Overall) using `gpt-4o-mini` (or an OpenAI-compatible endpoint). 
+*   **Prompting Strategy:** Zero-shot evaluation requesting strict JSON schema output (scores 1-5 and pass/borderline/fail categorization).
+*   **Caching & Retries:** Outputs are cached in `results/judge_cache.json`. The pipeline includes exponential backoff/retries and strict schema validation.
+*   **Limitations:** Real LLM judges are subject to context window limitations and occasional hallucinations. A deterministic `heuristic_judge` fallback is triggered if the API is offline or the JSON output is invalid.
 If no API key is available during the run, explicitly say:
 LLM judge not executed; deterministic heuristic fallback used.
