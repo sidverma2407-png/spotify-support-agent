@@ -6,6 +6,10 @@ from sklearn.pipeline import Pipeline, FeatureUnion
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from src.intent.data_loader import load_and_split_data
 from src.retrieval.evaluate_retrieval import get_train_test_split
 from src.retrieval.tfidf_retriever import TfidfRetriever
