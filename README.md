@@ -143,6 +143,9 @@ python -m src.intent.classifier
 
 # 6. Run all test suites
 pytest tests/
+
+# 7. Run the Customer Support UI Demo
+streamlit run app/streamlit_app.py
 ```
 
 ## Project Structure
